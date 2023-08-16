@@ -1,0 +1,40 @@
+
+
+.scoreboard-element{
+    text-align: center;
+}
+
+#teams-score{
+    layout:grid;
+    grid-size:3;
+    grid-columns: 45% 10% 45%;
+}
+
+
+#score-ct{
+    text-align:right;
+    color: rgb(54, 129, 197);
+}
+
+#score-t{
+    text-align:left;
+    color: rgb(240, 180, 18);
+}
+
+#scoreboard-container {
+    layout: grid;
+    grid-size:3;
+    grid-columns: 20% 60% 20%;
+}
+
+ScoreboardTopHeader {
+    height:20%
+}
+
+Timeline {
+    height:15%
+}
+
+TeamStats {
+    height:30%
+}
