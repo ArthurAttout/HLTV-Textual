@@ -7,13 +7,19 @@
 		{
 			"type": "node",
 			"request": "launch",
-			"name": "Launch Program 1",
+			"name": "Backend",
 			
 			"runtimeExecutable": "node",
 			"skipFiles": [
 				"<node_internals>/**"
 			],
 			"program": "${workspaceFolder}/index2.js"
+		},
+		{
+			"type": "python",
+			"request": "launch",
+			"name": "Textualize",
+			"program": "${workspaceFolder}/scoreboard.py"
 		}
 	]
 }

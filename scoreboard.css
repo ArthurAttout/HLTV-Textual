@@ -1,3 +1,9 @@
+.round-result-cell{
+    height:4;
+    width:4;
+    border:#F35573A0;
+
+}
 
 
 .scoreboard-element{
@@ -32,11 +38,11 @@ ScoreboardTopHeader {
 }
 
 Timeline {
-    height:15%
+    height:23%
 }
 
 TeamStats {
-    height:30%
+    height:28%
 }
 
 #timeline-group{
