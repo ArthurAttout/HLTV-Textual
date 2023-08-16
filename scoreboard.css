@@ -38,3 +38,8 @@ Timeline {
 TeamStats {
     height:30%
 }
+
+#timeline-group{
+    layout:grid;
+    grid-size:30;
+}
