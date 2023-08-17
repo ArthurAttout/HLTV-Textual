@@ -1,10 +1,3 @@
-.round-result-cell{
-    height:4;
-    width:4;
-    border:#F35573A0;
-
-}
-
 
 .scoreboard-element{
     text-align: center;
@@ -36,16 +29,37 @@
 ScoreboardTopHeader {
     height:20%
 }
-
-Timeline {
-    height:23%
-}
-
 TeamStats {
     height:28%
 }
 
-#timeline-group{
+
+/* Timeline stuffs */
+
+Timeline {
+	height:17%;
     layout:grid;
     grid-size:30;
+	grid-rows:1fr 1fr;
+	
 }
+
+.round-result-cell {
+    height:3;
+    width:5;
+    text-align:center;
+}
+
+
+.round-result-cell-t{
+    background: rgb(240, 180, 18);
+}
+
+.round-result-cell-ct{
+    background: rgb(54, 129, 197);
+}
+
+.round-result-cell-neutral{
+    /*background:#F35573A0;*/
+}
+

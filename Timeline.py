@@ -15,40 +15,58 @@ class RoundResult(Enum):
 
 class RoundResultComponent(Static):
     
-    def __init__(self, result: RoundResult):
+    def __init__(self, result: RoundResult, reverse: Boolean):
         Static.__init__(self)
         self.result = result
+        self.reverse = reverse     
+
 
     def compose(self) -> ComposeResult:
+        top = self.get_components()[0]
+        bottom = self.get_components()[1]
+        if self.reverse:
+            yield bottom
+            yield top
+        yield top 
+        yield bottom
+    
+    def get_components(self) -> list[Static]:
         if self.result == RoundResult.BOMB_DEFUSED:
-            yield Vertical(
-                Static("🔧", classes="round-result-cell"),
-                Static(classes="round-result-cell")
-            )
+            return[
+                Static("🔧", classes="round-result-cell round-result-cell-ct"),
+                Static(classes="round-result-cell round-result-cell-neutral")
+            ]
+            
         elif self.result == RoundResult.T_SIDE_KILLED:
-            yield Vertical(
-                Static("💀", classes="round-result-cell"),
-                Static(classes="round-result-cell")
-            )
+            return [
+                Static("💀", classes="round-result-cell round-result-cell-ct"),
+                Static(classes="round-result-cell round-result-cell-neutral")
+            ]
+            
         elif self.result == RoundResult.BOMB_EXPLODED:
-            yield Vertical(
-                Static(classes="round-result-cell"),
-                Static("💥", classes="round-result-cell")
-            )
+            return [ 
+                Static(classes="round-result-cell round-result-cell-neutral"),
+                Static("💥", classes="round-result-cell round-result-cell-t")
+            ]
+            
         elif self.result == RoundResult.CT_SIDE_KILLED:
-            yield Vertical(
-                Static(classes="round-result-cell"),
-                Static("💀", classes="round-result-cell")
-            )
+            return [
+                Static(classes="round-result-cell round-result-cell-neutral"),
+                Static("💀", classes="round-result-cell round-result-cell-t")
+            ]
         else:
-            yield Static("Wtf ?", classes="round-result-cell")
+            return [Static(),Static("Wtf ?", classes="round-result-cell")]
 
 class Timeline(Static):
     def compose(self) -> ComposeResult:
-        generator = RoundGenerator(30)
-        with Container(id="timeline-group"):
-            for result in generator:
-               yield RoundResultComponent(result)
+        generator = RoundGenerator(15)
+        for result in generator:
+            yield RoundResultComponent(result, False)
+            
+        generator = RoundGenerator(15)
+        for result in generator:
+            yield RoundResultComponent(result, True)
+            
     
 
 
