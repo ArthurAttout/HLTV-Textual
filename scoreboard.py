@@ -7,14 +7,23 @@ from ScoreboardTopHeader import ScoreboardTopHeader
 from TeamStats import TeamStats
 from Timeline import Timeline
 
+ROWS = [
+    ("deko",        True, "AWP",100,True,1430,4,1,2,87.0),
+    ("Boombl4",     False,"AWP",100,True,1430,4,1,2,87.0),
+    ("TRAVIS",      False,"AWP",100,True,1430,4,1,2,87.0),
+    ("NickelBack",  False,"AWP",100,True,1430,4,1,2,87.0),
+    ("Forester",    False,"AWP",100,True,1430,4,1,2,87.0),
+]
+
+
 class ScoreboardApp(App):
     CSS_PATH = "scoreboard.css"
     def compose(self) -> ComposeResult:
         yield Header()
         yield ScoreboardTopHeader()
-        yield TeamStats("Team 1 score")
+        yield TeamStats(ROWS)
         yield Timeline()
-        yield TeamStats("Team 2 score")
+        yield TeamStats(ROWS)
         yield Footer()
 
 

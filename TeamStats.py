@@ -1,13 +1,30 @@
 from __future__ import annotations
-from textual.app import App, ComposeResult
-from textual.containers import Container, Horizontal
-from textual.widgets import Footer, Header, Static, Placeholder
+from textual.app import ComposeResult
+from textual.widgets import DataTable, Static
 
+COLUMNS_DEFINITION = [
+    ("Name", 33),
+    ( "Kit", 5),
+    ("Weapon", 5),
+    ("Health", 5), 
+    ("Helmet", 5), 
+    ("Money", 5), 
+    ("K", 5), 
+    ("A", 5), 
+    ("D", 5), 
+    ("ADR", 6),
+]
 
 class TeamStats(Static):
-    def __init__(self, name):
+    def __init__(self, stats):
         Static.__init__(self)
-        self.custom_name = name
+        self.custom_stats = stats
 
     def compose(self) -> ComposeResult:
-        yield Placeholder(self.custom_name)
+        yield DataTable()
+
+    def on_mount(self) -> None:
+        table = self.query_one(DataTable)
+        for column in COLUMNS_DEFINITION:
+            table.add_column(column[0], width=column[1])
+        table.add_rows(self.custom_stats)

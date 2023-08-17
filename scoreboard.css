@@ -29,15 +29,25 @@
 ScoreboardTopHeader {
     height:20%
 }
+
 TeamStats {
-    height:28%
+    height:28%;
+} 
+
+#datatable{
+    width: 100%;
+    height:100;
+}
+
+PlayerStats {
+    height:2;
 }
 
 
 /* Timeline stuffs */
 
 Timeline {
-	height:17%;
+	height:19%;
     layout:grid;
     grid-size:30;
 	grid-rows:1fr 1fr;
@@ -48,6 +58,7 @@ Timeline {
     height:3;
     width:5;
     text-align:center;
+    content-align-vertical: middle;
 }
 
 
