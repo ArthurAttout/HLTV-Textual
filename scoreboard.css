@@ -47,7 +47,7 @@ PlayerStats {
 /* Timeline stuffs */
 
 Timeline {
-	height:19%;
+	height:21%;
     layout:grid;
     grid-size:30;
 	grid-rows:1fr 1fr;
@@ -63,11 +63,11 @@ Timeline {
 
 
 .round-result-cell-t{
-    background: rgb(240, 180, 18);
+    background: rgba(240, 180, 18, 0.7);
 }
 
 .round-result-cell-ct{
-    background: rgb(54, 129, 197);
+    background: rgba(54, 129, 197, 0.7);
 }
 
 .round-result-cell-neutral{
