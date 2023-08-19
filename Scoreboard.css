@@ -1,0 +1,76 @@
+
+.scoreboard-element{
+    text-align: center;
+}
+
+#teams-score{
+    layout:grid;
+    grid-size:3;
+    grid-columns: 45% 10% 45%;
+}
+
+
+#score-ct{
+    text-align:right;
+    color: rgb(54, 129, 197);
+}
+
+#score-t{
+    text-align:left;
+    color: rgb(240, 180, 18);
+}
+
+#scoreboard-container {
+    layout: grid;
+    grid-size:3;
+    grid-columns: 20% 60% 20%;
+}
+
+ScoreboardTopHeader {
+    height:20%
+}
+
+TeamStats {
+    height:28%;
+} 
+
+#datatable{
+    width: 100%;
+    height:100;
+}
+
+PlayerStats {
+    height:2;
+}
+
+
+/* Timeline stuffs */
+
+Timeline {
+	height:21%;
+    layout:grid;
+    grid-size:30;
+	grid-rows:1fr 1fr;
+	
+}
+
+.round-result-cell {
+    height:3;
+    width:5;
+    text-align:center;
+    content-align-vertical: middle;
+}
+
+
+.round-result-cell-t{
+    background: rgba(240, 180, 18, 0.7);
+}
+
+.round-result-cell-ct{
+    background: rgba(54, 129, 197, 0.7);
+}
+
+.round-result-cell-neutral{
+    /*background:#F35573A0;*/
+}
+
