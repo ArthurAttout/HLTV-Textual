@@ -3,6 +3,14 @@
     text-align: center;
 }
 
+.scoreboard-time{
+    text-align: end;
+}
+
+.scoreboard-round{
+    text-align: start;
+}
+
 #teams-score{
     layout:grid;
     grid-size:3;

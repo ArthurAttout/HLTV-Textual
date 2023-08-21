@@ -19,7 +19,7 @@
 			"type": "python",
 			"request": "launch",
 			"name": "Textualize",
-			"program": "${workspaceFolder}/scoreboard.py"
+			"program": "${workspaceFolder}/Scoreboard.py"
 		}
 	]
 }
