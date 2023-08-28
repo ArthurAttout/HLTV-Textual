@@ -9,6 +9,8 @@ from TeamStats import TeamStats
 from Timeline import Timeline
 from ScoreboardTopHeader import ScoreboardData
 from TeamStats import PlayerStat
+import socketio
+import json
 
 TEAM_STATS = [
     PlayerStat("deko",        False, "WP",100,True,1430,4,1,2,87.0),
@@ -35,21 +37,36 @@ class ScoreboardApp(App):
         yield TeamStats(TEAM_STATS)
         yield Footer()
 
-    def on_mount(self) -> None:
-        self.set_interval(1, self.update_data)
 
-    def update_data(self):
-        self.counter += 1
-        new_data = ScoreboardData(
-            str(self.counter + 13), 
-            "Overpass", 
-            str(self.counter), 
-            str(self.counter + 4), 
-            str(self.counter + 9)
-        )
-        self.query_one(ScoreboardTopHeader).update_data(new_data)
+    def update_data(self, data:ScoreboardData):
+        self.query_one(ScoreboardTopHeader).update_data(data)
         
-
 if __name__ == "__main__":
     app = ScoreboardApp()
+    
+    sio = socketio.Client(reconnection_attempts=8)
+    @sio.event
+    def connect():
+        print('connection established')
+
+    @sio.event
+    def scoreboard(data):
+        round = data['currentRound']
+        map_name = data['mapName']
+        time = '0'
+        ct_score = data['counterTerroristScore']
+        t_score = data['terroristScore']
+        new_data = ScoreboardData(round,map_name,time,ct_score,t_score)
+        app.update_data(new_data)
+
+    @sio.event
+    def log(data):
+        pass
+
+    @sio.event
+    def disconnect():
+        print('disconnected from server')
+
+    sio.connect('http://localhost:8080')
     app.run()
+

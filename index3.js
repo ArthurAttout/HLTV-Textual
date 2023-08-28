@@ -21,6 +21,7 @@ socket.on('connect', function () {
     socket.on('log', function (data) {
 	let event = JSON.parse(data).log.slice(-1)[0]
         let type = Object.keys(event)[0]
+        console.log(type)
 	switch(type){
 	  case "Kill":
             printers.onKill(event.Kill)
