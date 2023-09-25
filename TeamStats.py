@@ -39,12 +39,28 @@ class PlayerStat:
             self.money, 
             self.k, self.a, self.d, self.adr
         )
+    
+    @staticmethod
+    def from_dict(data):
+        return PlayerStat(
+            data['name'],
+            False if not('hasDefuseKit' in data) else data['hasDefuseKit'],
+            'AK',
+            data['hp'],
+            data['helmet'],
+            data['money'],
+            data['score'],
+            data['assists'],
+            data['deaths'],
+            data['damagePrRound']
+        )
  
 
 class TeamStats(Static):
-    def __init__(self, stats:list[PlayerStat]):
+    def __init__(self, stats:list[PlayerStat], id:str):
         Static.__init__(self)
         self.custom_stats = stats
+        self.id = id
 
     def compose(self) -> ComposeResult:
         yield DataTable(show_cursor=False)
@@ -53,4 +69,9 @@ class TeamStats(Static):
         table = self.query_one(DataTable)
         for column in COLUMNS_DEFINITION:
             table.add_column(column[0], width=column[1])
-        table.add_rows(map(lambda entry : entry.to_row(), self.custom_stats))
+        self.update_data(self.custom_stats)
+
+    def update_data(self, data:list[PlayerStat]):
+        table = self.query_one(DataTable)
+        table.clear()
+        table.add_rows(map(lambda entry : entry.to_row(), data))

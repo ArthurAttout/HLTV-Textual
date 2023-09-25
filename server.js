@@ -2,7 +2,7 @@ const server = require('http').createServer()
 const ioServer = require('socket.io')(server)
 let ioClient = require('socket.io-client')
 const url = 'https://scorebot-lb.hltv.org'
-const id = "2366383"
+const id = "2366985"
 let listeners = {}
 let socket = ioClient.connect(url, {
     agent: false
