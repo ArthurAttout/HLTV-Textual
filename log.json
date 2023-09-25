@@ -1,0 +1,6994 @@
+{
+  "log": [
+    {
+      "Kill": {
+        "killerName": "saffee",
+        "killerNick": "saffee",
+        "killerSide": "CT",
+        "victimNick": "Boombl4",
+        "victimName": "Boombl4",
+        "victimSide": "TERRORIST",
+        "weapon": "inferno",
+        "headShot": false,
+        "eventId": 3087924143,
+        "victimX": -1892,
+        "victimY": 277,
+        "killerX": -1020,
+        "killerY": 69,
+        "killerId": 18835,
+        "victimId": 11840,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Boombl4",
+        "killerNick": "Boombl4",
+        "killerSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "weapon": "ak47",
+        "headShot": true,
+        "eventId": 3087924126,
+        "victimX": -1020,
+        "victimY": 69,
+        "killerX": -1892,
+        "killerY": 278,
+        "killerId": 11840,
+        "victimId": 18835,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "saffee",
+        "killerNick": "saffee",
+        "killerSide": "CT",
+        "victimNick": "NickelBack",
+        "victimName": "NickelBack",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer",
+        "headShot": false,
+        "eventId": 3087923880,
+        "victimX": -1948,
+        "victimY": 205,
+        "killerX": -927,
+        "killerY": 85,
+        "killerId": 18835,
+        "victimId": 11498,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "RoundStart": {}
+    },
+    {
+      "RoundEnd": {
+        "counterTerroristScore": 3,
+        "terroristScore": 3,
+        "winner": "CT",
+        "winType": "CTs_Win"
+      }
+    },
+    {
+      "Assist": {
+        "assisterName": "insani",
+        "assisterNick": "insani",
+        "assisterSide": "CT",
+        "victimNick": "Forester",
+        "victimName": "Forester",
+        "victimSide": "TERRORIST",
+        "killEventId": 3087919625
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "saffee",
+        "killerNick": "saffee",
+        "killerSide": "CT",
+        "victimNick": "Forester",
+        "victimName": "Forester",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer",
+        "headShot": true,
+        "eventId": 3087919625,
+        "victimX": -2500,
+        "victimY": 326,
+        "killerX": -1678,
+        "killerY": 975,
+        "killerId": 18835,
+        "victimId": 13982,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Assist": {
+        "assisterName": "deko",
+        "assisterNick": "deko",
+        "assisterSide": "TERRORIST",
+        "victimNick": "exit",
+        "victimName": "exit",
+        "victimSide": "CT",
+        "killEventId": 3087919571
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Forester",
+        "killerNick": "Forester",
+        "killerSide": "TERRORIST",
+        "victimNick": "exit",
+        "victimName": "exit",
+        "victimSide": "CT",
+        "weapon": "ak47",
+        "headShot": false,
+        "eventId": 3087919571,
+        "victimX": -2634,
+        "victimY": 631,
+        "killerX": -2558,
+        "killerY": 208,
+        "killerId": 13982,
+        "victimId": 11154,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "insani",
+        "killerNick": "insani",
+        "killerSide": "CT",
+        "victimNick": "Boombl4",
+        "victimName": "Boombl4",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer",
+        "headShot": true,
+        "eventId": 3087919450,
+        "victimX": -1218,
+        "victimY": -62,
+        "killerX": -982,
+        "killerY": -258,
+        "killerId": 21037,
+        "victimId": 11840,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "exit",
+        "killerNick": "exit",
+        "killerSide": "CT",
+        "victimNick": "deko",
+        "victimName": "deko",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer",
+        "headShot": false,
+        "eventId": 3087919437,
+        "victimX": -2233,
+        "victimY": 162,
+        "killerX": -2524,
+        "killerY": 763,
+        "killerId": 11154,
+        "victimId": 20113,
+        "penetrated": true,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "deko",
+        "killerNick": "deko",
+        "killerSide": "TERRORIST",
+        "victimNick": "drop",
+        "victimName": "drop",
+        "victimSide": "CT",
+        "weapon": "m4a1_silencer",
+        "headShot": true,
+        "eventId": 3087919111,
+        "flasherNick": "Forester",
+        "flasherSide": "TERRORIST",
+        "victimX": -2519,
+        "victimY": 372,
+        "killerX": -2153,
+        "killerY": -137,
+        "killerId": 20113,
+        "victimId": 19750,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "drop",
+        "killerNick": "drop",
+        "killerSide": "CT",
+        "victimNick": "TRAVIS",
+        "victimName": "TRAVIS",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer",
+        "headShot": false,
+        "eventId": 3087919081,
+        "flasherNick": "exit",
+        "flasherSide": "CT",
+        "victimX": -2174,
+        "victimY": 440,
+        "killerX": -2515,
+        "killerY": 373,
+        "killerId": 19750,
+        "victimId": 16948,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": true
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "insani",
+        "killerNick": "insani",
+        "killerSide": "CT",
+        "victimNick": "NickelBack",
+        "victimName": "NickelBack",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer",
+        "headShot": false,
+        "eventId": 3087918569,
+        "victimX": -645,
+        "victimY": -1163,
+        "killerX": -87,
+        "killerY": -1127,
+        "killerId": 21037,
+        "victimId": 11498,
+        "penetrated": false,
+        "throughSmoke": true,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Forester",
+        "killerNick": "Forester",
+        "killerSide": "TERRORIST",
+        "victimNick": "brnz4n",
+        "victimName": "brnz4n",
+        "victimSide": "CT",
+        "weapon": "ak47",
+        "headShot": true,
+        "eventId": 3087917377,
+        "victimX": -694,
+        "victimY": -1209,
+        "killerX": -894,
+        "killerY": -453,
+        "killerId": 13982,
+        "victimId": 20987,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "RoundStart": {}
+    },
+    {
+      "RoundEnd": {
+        "counterTerroristScore": 2,
+        "terroristScore": 3,
+        "winner": "CT",
+        "winType": "Target_Saved"
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "deko",
+        "killerNick": "deko",
+        "killerSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "weapon": "m4a1_silencer",
+        "headShot": true,
+        "eventId": 3087914820,
+        "victimX": -1388,
+        "victimY": 963,
+        "killerX": -1415,
+        "killerY": 785,
+        "killerId": 20113,
+        "victimId": 18835,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Assist": {
+        "assisterName": "Boombl4",
+        "assisterNick": "Boombl4",
+        "assisterSide": "TERRORIST",
+        "victimNick": "drop",
+        "victimName": "drop",
+        "victimSide": "CT",
+        "killEventId": 3087914715
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "deko",
+        "killerNick": "deko",
+        "killerSide": "TERRORIST",
+        "victimNick": "drop",
+        "victimName": "drop",
+        "victimSide": "CT",
+        "weapon": "m4a1_silencer",
+        "headShot": false,
+        "eventId": 3087914715,
+        "victimX": -2290,
+        "victimY": 1056,
+        "killerX": -1394,
+        "killerY": 614,
+        "killerId": 20113,
+        "victimId": 19750,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Assist": {
+        "assisterName": "brnz4n",
+        "assisterNick": "brnz4n",
+        "assisterSide": "CT",
+        "victimNick": "NickelBack",
+        "victimName": "NickelBack",
+        "victimSide": "TERRORIST",
+        "killEventId": 3087913953
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "insani",
+        "killerNick": "insani",
+        "killerSide": "CT",
+        "victimNick": "NickelBack",
+        "victimName": "NickelBack",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer",
+        "headShot": false,
+        "eventId": 3087913953,
+        "victimX": -872,
+        "victimY": -474,
+        "killerX": -629,
+        "killerY": -1038,
+        "killerId": 21037,
+        "victimId": 11498,
+        "penetrated": false,
+        "throughSmoke": true,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "drop",
+        "killerNick": "drop",
+        "killerSide": "CT",
+        "victimNick": "Boombl4",
+        "victimName": "Boombl4",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer",
+        "headShot": true,
+        "eventId": 3087913683,
+        "victimX": -977,
+        "victimY": 582,
+        "killerX": -1312,
+        "killerY": 943,
+        "killerId": 19750,
+        "victimId": 11840,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "drop",
+        "killerNick": "drop",
+        "killerSide": "CT",
+        "victimNick": "TRAVIS",
+        "victimName": "TRAVIS",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer",
+        "headShot": false,
+        "eventId": 3087913128,
+        "victimX": -2027,
+        "victimY": -134,
+        "killerX": -2291,
+        "killerY": 200,
+        "killerId": 19750,
+        "victimId": 16948,
+        "penetrated": false,
+        "throughSmoke": true,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "RoundStart": {}
+    },
+    {
+      "Kill": {
+        "killerName": "deko",
+        "killerNick": "deko",
+        "killerSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "weapon": "m4a1_silencer",
+        "headShot": false,
+        "eventId": 3087911841,
+        "victimX": -472,
+        "victimY": -1291,
+        "killerX": -208,
+        "killerY": -660,
+        "killerId": 20113,
+        "victimId": 18835,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "RoundEnd": {
+        "counterTerroristScore": 1,
+        "terroristScore": 3,
+        "winner": "TERRORIST",
+        "winType": "Target_Bombed"
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Boombl4",
+        "killerNick": "Boombl4",
+        "killerSide": "TERRORIST",
+        "victimNick": "brnz4n",
+        "victimName": "brnz4n",
+        "victimSide": "CT",
+        "weapon": "galilar",
+        "headShot": false,
+        "eventId": 3087910706,
+        "victimX": -1020,
+        "victimY": 118,
+        "killerX": -1968,
+        "killerY": 176,
+        "killerId": 11840,
+        "victimId": 20987,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Boombl4",
+        "killerNick": "Boombl4",
+        "killerSide": "TERRORIST",
+        "victimNick": "exit",
+        "victimName": "exit",
+        "victimSide": "CT",
+        "weapon": "galilar",
+        "headShot": false,
+        "eventId": 3087910593,
+        "victimX": -1518,
+        "victimY": 252,
+        "killerX": -1952,
+        "killerY": 61,
+        "killerId": 11840,
+        "victimId": 11154,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "BombPlanted": {
+        "playerName": "Forester",
+        "playerNick": "Forester",
+        "ctPlayers": 3,
+        "tPlayers": 5,
+        "bombSite": "B"
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Boombl4",
+        "killerNick": "Boombl4",
+        "killerSide": "TERRORIST",
+        "victimNick": "insani",
+        "victimName": "insani",
+        "victimSide": "CT",
+        "weapon": "galilar",
+        "headShot": true,
+        "eventId": 3087910534,
+        "victimX": -1458,
+        "victimY": 338,
+        "killerX": -1949,
+        "killerY": 16,
+        "killerId": 11840,
+        "victimId": 21037,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "NickelBack",
+        "killerNick": "NickelBack",
+        "killerSide": "TERRORIST",
+        "victimNick": "drop",
+        "victimName": "drop",
+        "victimSide": "CT",
+        "weapon": "galilar",
+        "headShot": true,
+        "eventId": 3087910353,
+        "victimX": -1642,
+        "victimY": 786,
+        "killerX": -2032,
+        "killerY": 535,
+        "killerId": 11498,
+        "victimId": 19750,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "RoundStart": {}
+    },
+    {
+      "RoundEnd": {
+        "counterTerroristScore": 1,
+        "terroristScore": 2,
+        "winner": "TERRORIST",
+        "winType": "Target_Bombed"
+      }
+    },
+    {
+      "BombPlanted": {
+        "playerName": "NickelBack",
+        "playerNick": "NickelBack",
+        "ctPlayers": 2,
+        "tPlayers": 5,
+        "bombSite": "B"
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "TRAVIS",
+        "killerNick": "TRAVIS",
+        "killerSide": "TERRORIST",
+        "victimNick": "drop",
+        "victimName": "drop",
+        "victimSide": "CT",
+        "weapon": "galilar",
+        "headShot": true,
+        "eventId": 3087907739,
+        "victimX": -2222,
+        "victimY": 200,
+        "killerX": -2182,
+        "killerY": 43,
+        "killerId": 16948,
+        "victimId": 19750,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Boombl4",
+        "killerNick": "Boombl4",
+        "killerSide": "TERRORIST",
+        "victimNick": "exit",
+        "victimName": "exit",
+        "victimSide": "CT",
+        "weapon": "galilar",
+        "headShot": true,
+        "eventId": 3087907585,
+        "victimX": -1007,
+        "victimY": 263,
+        "killerX": -1942,
+        "killerY": 124,
+        "killerId": 11840,
+        "victimId": 11154,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Forester",
+        "killerNick": "Forester",
+        "killerSide": "TERRORIST",
+        "victimNick": "brnz4n",
+        "victimName": "brnz4n",
+        "victimSide": "CT",
+        "weapon": "ak47",
+        "headShot": false,
+        "eventId": 3087907308,
+        "victimX": -999,
+        "victimY": -572,
+        "killerX": -636,
+        "killerY": -433,
+        "killerId": 13982,
+        "victimId": 20987,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "RoundStart": {}
+    },
+    {
+      "RoundEnd": {
+        "counterTerroristScore": 1,
+        "terroristScore": 1,
+        "winner": "TERRORIST",
+        "winType": "Target_Bombed"
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "exit",
+        "killerNick": "exit",
+        "killerSide": "CT",
+        "victimNick": "TRAVIS",
+        "victimName": "TRAVIS",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer",
+        "headShot": false,
+        "eventId": 3087905211,
+        "victimX": -1656,
+        "victimY": 515,
+        "killerX": -1514,
+        "killerY": 846,
+        "killerId": 11154,
+        "victimId": 16948,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Assist": {
+        "assisterName": "Boombl4",
+        "assisterNick": "Boombl4",
+        "assisterSide": "TERRORIST",
+        "victimNick": "drop",
+        "victimName": "drop",
+        "victimSide": "CT",
+        "killEventId": 3087905187
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "TRAVIS",
+        "killerNick": "TRAVIS",
+        "killerSide": "TERRORIST",
+        "victimNick": "drop",
+        "victimName": "drop",
+        "victimSide": "CT",
+        "weapon": "galilar",
+        "headShot": true,
+        "eventId": 3087905187,
+        "victimX": -2250,
+        "victimY": 531,
+        "killerX": -1645,
+        "killerY": 514,
+        "killerId": 16948,
+        "victimId": 19750,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "drop",
+        "killerNick": "drop",
+        "killerSide": "CT",
+        "victimNick": "Boombl4",
+        "victimName": "Boombl4",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer",
+        "headShot": false,
+        "eventId": 3087905143,
+        "victimX": -1900,
+        "victimY": 776,
+        "killerX": -2503,
+        "killerY": 355,
+        "killerId": 19750,
+        "victimId": 11840,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "BombPlanted": {
+        "playerName": "Boombl4",
+        "playerNick": "Boombl4",
+        "ctPlayers": 2,
+        "tPlayers": 2,
+        "bombSite": "B"
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Boombl4",
+        "killerNick": "Boombl4",
+        "killerSide": "TERRORIST",
+        "victimNick": "brnz4n",
+        "victimName": "brnz4n",
+        "victimSide": "CT",
+        "weapon": "galilar",
+        "headShot": false,
+        "eventId": 3087903728,
+        "victimX": -619,
+        "victimY": -1445,
+        "killerX": -863,
+        "killerY": -181,
+        "killerId": 11840,
+        "victimId": 20987,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Assist": {
+        "assisterName": "insani",
+        "assisterNick": "insani",
+        "assisterSide": "CT",
+        "victimNick": "deko",
+        "victimName": "deko",
+        "victimSide": "TERRORIST",
+        "killEventId": 3087903714
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "brnz4n",
+        "killerNick": "brnz4n",
+        "killerSide": "CT",
+        "victimNick": "deko",
+        "victimName": "deko",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer",
+        "headShot": false,
+        "eventId": 3087903714,
+        "victimX": -726,
+        "victimY": -34,
+        "killerX": -631,
+        "killerY": -1446,
+        "killerId": 20987,
+        "victimId": 20113,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "brnz4n",
+        "killerNick": "brnz4n",
+        "killerSide": "CT",
+        "victimNick": "Forester",
+        "victimName": "Forester",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer",
+        "headShot": true,
+        "eventId": 3087903655,
+        "victimX": -884,
+        "victimY": -205,
+        "killerX": -570,
+        "killerY": -1434,
+        "killerId": 20987,
+        "victimId": 13982,
+        "penetrated": true,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "deko",
+        "killerNick": "deko",
+        "killerSide": "TERRORIST",
+        "victimNick": "insani",
+        "victimName": "insani",
+        "victimSide": "CT",
+        "weapon": "galilar",
+        "headShot": false,
+        "eventId": 3087903520,
+        "victimX": -642,
+        "victimY": -1452,
+        "killerX": -887,
+        "killerY": -18,
+        "killerId": 20113,
+        "victimId": 21037,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Assist": {
+        "assisterName": "brnz4n",
+        "assisterNick": "brnz4n",
+        "assisterSide": "CT",
+        "victimNick": "NickelBack",
+        "victimName": "NickelBack",
+        "victimSide": "TERRORIST",
+        "killEventId": 3087903490
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "insani",
+        "killerNick": "insani",
+        "killerSide": "CT",
+        "victimNick": "NickelBack",
+        "victimName": "NickelBack",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer",
+        "headShot": true,
+        "eventId": 3087903490,
+        "victimX": -688,
+        "victimY": -333,
+        "killerX": -671,
+        "killerY": -1454,
+        "killerId": 21037,
+        "victimId": 11498,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Forester",
+        "killerNick": "Forester",
+        "killerSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "weapon": "galilar",
+        "headShot": true,
+        "eventId": 3087903423,
+        "victimX": -740,
+        "victimY": -1355,
+        "killerX": -692,
+        "killerY": -476,
+        "killerId": 13982,
+        "victimId": 18835,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "RoundStart": {}
+    },
+    {
+      "RoundEnd": {
+        "counterTerroristScore": 1,
+        "terroristScore": 0,
+        "winner": "CT",
+        "winType": "Bomb_Defused"
+      }
+    },
+    {
+      "BombDefused": {
+        "playerName": "insani",
+        "playerNick": "insani"
+      }
+    },
+    {
+      "Assist": {
+        "assisterName": "drop",
+        "assisterNick": "drop",
+        "assisterSide": "CT",
+        "victimNick": "TRAVIS",
+        "victimName": "TRAVIS",
+        "victimSide": "TERRORIST",
+        "killEventId": 3087901642
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "insani",
+        "killerNick": "insani",
+        "killerSide": "CT",
+        "victimNick": "TRAVIS",
+        "victimName": "TRAVIS",
+        "victimSide": "TERRORIST",
+        "weapon": "usp_silencer",
+        "headShot": true,
+        "eventId": 3087901642,
+        "victimX": -671,
+        "victimY": -753,
+        "killerX": -308,
+        "killerY": -324,
+        "killerId": 21037,
+        "victimId": 16948,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "insani",
+        "killerNick": "insani",
+        "killerSide": "CT",
+        "victimNick": "deko",
+        "victimName": "deko",
+        "victimSide": "TERRORIST",
+        "weapon": "usp_silencer",
+        "headShot": true,
+        "eventId": 3087901499,
+        "victimX": -410,
+        "victimY": -702,
+        "killerX": -505,
+        "killerY": -199,
+        "killerId": 21037,
+        "victimId": 20113,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "BombPlanted": {
+        "playerName": "deko",
+        "playerNick": "deko",
+        "ctPlayers": 2,
+        "tPlayers": 2,
+        "bombSite": "A"
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "TRAVIS",
+        "killerNick": "TRAVIS",
+        "killerSide": "TERRORIST",
+        "victimNick": "exit",
+        "victimName": "exit",
+        "victimSide": "CT",
+        "weapon": "elite",
+        "headShot": true,
+        "eventId": 3087901207,
+        "victimX": -383,
+        "victimY": -498,
+        "killerX": -1104,
+        "killerY": -666,
+        "killerId": 16948,
+        "victimId": 11154,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "exit",
+        "killerNick": "exit",
+        "killerSide": "CT",
+        "victimNick": "Boombl4",
+        "victimName": "Boombl4",
+        "victimSide": "TERRORIST",
+        "weapon": "usp_silencer",
+        "headShot": true,
+        "eventId": 3087901157,
+        "victimX": -82,
+        "victimY": -841,
+        "killerX": -565,
+        "killerY": -667,
+        "killerId": 11154,
+        "victimId": 11840,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Assist": {
+        "assisterName": "saffee",
+        "assisterNick": "saffee",
+        "assisterSide": "CT",
+        "victimNick": "Forester",
+        "victimName": "Forester",
+        "victimSide": "TERRORIST",
+        "killEventId": 3087901043
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "exit",
+        "killerNick": "exit",
+        "killerSide": "CT",
+        "victimNick": "Forester",
+        "victimName": "Forester",
+        "victimSide": "TERRORIST",
+        "weapon": "usp_silencer",
+        "headShot": true,
+        "eventId": 3087901043,
+        "victimX": -341,
+        "victimY": -715,
+        "killerX": -535,
+        "killerY": -590,
+        "killerId": 11154,
+        "victimId": 13982,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Forester",
+        "killerNick": "Forester",
+        "killerSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "weapon": "glock",
+        "headShot": true,
+        "eventId": 3087901017,
+        "flasherNick": "Boombl4",
+        "flasherSide": "TERRORIST",
+        "victimX": -999,
+        "victimY": -673,
+        "killerX": -315,
+        "killerY": -734,
+        "killerId": 13982,
+        "victimId": 18835,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "exit",
+        "killerNick": "exit",
+        "killerSide": "CT",
+        "victimNick": "NickelBack",
+        "victimName": "NickelBack",
+        "victimSide": "TERRORIST",
+        "weapon": "usp_silencer",
+        "headShot": true,
+        "eventId": 3087900856,
+        "victimX": -284,
+        "victimY": -1121,
+        "killerX": -482,
+        "killerY": -319,
+        "killerId": 11154,
+        "victimId": 11498,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Forester",
+        "killerNick": "Forester",
+        "killerSide": "TERRORIST",
+        "victimNick": "brnz4n",
+        "victimName": "brnz4n",
+        "victimSide": "CT",
+        "weapon": "glock",
+        "headShot": true,
+        "eventId": 3087899078,
+        "victimX": -994,
+        "victimY": -831,
+        "killerX": -606,
+        "killerY": -285,
+        "killerId": 13982,
+        "victimId": 20987,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "RoundStart": {}
+    },
+    {
+      "MatchStarted": {
+        "map": "de_vertigo"
+      }
+    },
+    {
+      "Restart": {}
+    },
+    {
+      "MatchStarted": {
+        "map": "de_vertigo"
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "insani",
+        "killerNick": "insani",
+        "killerSide": "CT",
+        "victimNick": "Forester",
+        "victimName": "Forester",
+        "victimSide": "TERRORIST",
+        "weapon": "usp_silencer",
+        "headShot": true,
+        "eventId": 3087896588,
+        "victimX": -1524,
+        "victimY": -409,
+        "killerX": -1739,
+        "killerY": 19,
+        "killerId": 21037,
+        "victimId": 13982,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Suicide": {
+        "playerName": "drop",
+        "playerNick": "drop",
+        "side": "CT",
+        "weapon": "world"
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Boombl4",
+        "killerNick": "Boombl4",
+        "killerSide": "TERRORIST",
+        "victimNick": "insani",
+        "victimName": "insani",
+        "victimSide": "CT",
+        "weapon": "sawedoff",
+        "headShot": true,
+        "eventId": 3087896359,
+        "victimX": -1664,
+        "victimY": -320,
+        "killerX": -1715,
+        "killerY": -241,
+        "killerId": 11840,
+        "victimId": 21037,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Suicide": {
+        "playerName": "drop",
+        "playerNick": "drop",
+        "side": "CT",
+        "weapon": "world"
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "NickelBack",
+        "killerNick": "NickelBack",
+        "killerSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "weapon": "sg556",
+        "headShot": true,
+        "eventId": 3087896225,
+        "victimX": -1019,
+        "victimY": 240,
+        "killerX": -1842,
+        "killerY": 285,
+        "killerId": 11498,
+        "victimId": 18835,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "drop",
+        "killerNick": "drop",
+        "killerSide": "CT",
+        "victimNick": "deko",
+        "victimName": "deko",
+        "victimSide": "TERRORIST",
+        "weapon": "usp_silencer",
+        "headShot": true,
+        "eventId": 3087896186,
+        "victimX": -1012,
+        "victimY": -219,
+        "killerX": -1044,
+        "killerY": 924,
+        "killerId": 19750,
+        "victimId": 20113,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "drop",
+        "killerNick": "drop",
+        "killerSide": "CT",
+        "victimNick": "Forester",
+        "victimName": "Forester",
+        "victimSide": "TERRORIST",
+        "weapon": "usp_silencer",
+        "headShot": true,
+        "eventId": 3087896104,
+        "victimX": -1183,
+        "victimY": 412,
+        "killerX": -1044,
+        "killerY": 924,
+        "killerId": 19750,
+        "victimId": 13982,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "NickelBack",
+        "killerNick": "NickelBack",
+        "killerSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "weapon": "sg556",
+        "headShot": false,
+        "eventId": 3087896077,
+        "victimX": -1523,
+        "victimY": 353,
+        "killerX": -1817,
+        "killerY": 438,
+        "killerId": 11498,
+        "victimId": 18835,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "deko",
+        "killerNick": "deko",
+        "killerSide": "TERRORIST",
+        "victimNick": "brnz4n",
+        "victimName": "brnz4n",
+        "victimSide": "CT",
+        "weapon": "galilar",
+        "headShot": true,
+        "eventId": 3087896066,
+        "victimX": -1103,
+        "victimY": 742,
+        "killerX": -906,
+        "killerY": -248,
+        "killerId": 20113,
+        "victimId": 20987,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Forester",
+        "killerNick": "Forester",
+        "killerSide": "TERRORIST",
+        "victimNick": "exit",
+        "victimName": "exit",
+        "victimSide": "CT",
+        "weapon": "nova",
+        "headShot": false,
+        "eventId": 3087896020,
+        "victimX": -956,
+        "victimY": 742,
+        "killerX": -1224,
+        "killerY": 307,
+        "killerId": 13982,
+        "victimId": 11154,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Suicide": {
+        "playerName": "drop",
+        "playerNick": "drop",
+        "side": "CT",
+        "weapon": "world"
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Boombl4",
+        "killerNick": "Boombl4",
+        "killerSide": "TERRORIST",
+        "victimNick": "brnz4n",
+        "victimName": "brnz4n",
+        "victimSide": "CT",
+        "weapon": "sawedoff",
+        "headShot": false,
+        "eventId": 3087895952,
+        "victimX": -2192,
+        "victimY": -1109,
+        "killerX": -2323,
+        "killerY": -1264,
+        "killerId": 11840,
+        "victimId": 20987,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "brnz4n",
+        "killerNick": "brnz4n",
+        "killerSide": "CT",
+        "victimNick": "TRAVIS",
+        "victimName": "TRAVIS",
+        "victimSide": "TERRORIST",
+        "weapon": "usp_silencer",
+        "headShot": true,
+        "eventId": 3087895779,
+        "victimX": -2123,
+        "victimY": -795,
+        "killerX": -2370,
+        "killerY": -1239,
+        "killerId": 20987,
+        "victimId": 16948,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Forester",
+        "killerNick": "Forester",
+        "killerSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "weapon": "nova",
+        "headShot": true,
+        "eventId": 3087895740,
+        "victimX": -1107,
+        "victimY": 351,
+        "killerX": -1391,
+        "killerY": 208,
+        "killerId": 13982,
+        "victimId": 18835,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "saffee",
+        "killerNick": "saffee",
+        "killerSide": "CT",
+        "victimNick": "Boombl4",
+        "victimName": "Boombl4",
+        "victimSide": "TERRORIST",
+        "weapon": "mag7",
+        "headShot": true,
+        "eventId": 3087895707,
+        "victimX": -1158,
+        "victimY": 295,
+        "killerX": -1117,
+        "killerY": 379,
+        "killerId": 18835,
+        "victimId": 11840,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Suicide": {
+        "playerName": "drop",
+        "playerNick": "drop",
+        "side": "CT",
+        "weapon": "world"
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "deko",
+        "killerNick": "deko",
+        "killerSide": "TERRORIST",
+        "victimNick": "exit",
+        "victimName": "exit",
+        "victimSide": "CT",
+        "weapon": "galilar",
+        "headShot": true,
+        "eventId": 3087895652,
+        "victimX": -191,
+        "victimY": -1428,
+        "killerX": -987,
+        "killerY": -1260,
+        "killerId": 20113,
+        "victimId": 11154,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Forester",
+        "killerNick": "Forester",
+        "killerSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "weapon": "nova",
+        "headShot": true,
+        "eventId": 3087895402,
+        "victimX": -1030,
+        "victimY": 590,
+        "killerX": -1337,
+        "killerY": 184,
+        "killerId": 13982,
+        "victimId": 18835,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Suicide": {
+        "playerName": "drop",
+        "playerNick": "drop",
+        "side": "CT",
+        "weapon": "world"
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Forester",
+        "killerNick": "Forester",
+        "killerSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "weapon": "nova",
+        "headShot": true,
+        "eventId": 3087895244,
+        "victimX": -1468,
+        "victimY": 705,
+        "killerX": -1453,
+        "killerY": 441,
+        "killerId": 13982,
+        "victimId": 18835,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "brnz4n",
+        "killerNick": "brnz4n",
+        "killerSide": "CT",
+        "victimNick": "TRAVIS",
+        "victimName": "TRAVIS",
+        "victimSide": "TERRORIST",
+        "weapon": "ak47",
+        "headShot": true,
+        "eventId": 3087895234,
+        "victimX": -2002,
+        "victimY": -126,
+        "killerX": -2250,
+        "killerY": 24,
+        "killerId": 20987,
+        "victimId": 16948,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "exit",
+        "killerNick": "exit",
+        "killerSide": "CT",
+        "victimNick": "NickelBack",
+        "victimName": "NickelBack",
+        "victimSide": "TERRORIST",
+        "weapon": "famas",
+        "headShot": true,
+        "eventId": 3087895077,
+        "victimX": -860,
+        "victimY": -113,
+        "killerX": -606,
+        "killerY": 196,
+        "killerId": 11154,
+        "victimId": 11498,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Suicide": {
+        "playerName": "drop",
+        "playerNick": "drop",
+        "side": "CT",
+        "weapon": "world"
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "brnz4n",
+        "killerNick": "brnz4n",
+        "killerSide": "CT",
+        "victimNick": "deko",
+        "victimName": "deko",
+        "victimSide": "TERRORIST",
+        "weapon": "ak47",
+        "headShot": true,
+        "eventId": 3087894793,
+        "victimX": -2359,
+        "victimY": -206,
+        "killerX": -2438,
+        "killerY": 715,
+        "killerId": 20987,
+        "victimId": 20113,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Suicide": {
+        "playerName": "drop",
+        "playerNick": "drop",
+        "side": "CT",
+        "weapon": "world"
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "brnz4n",
+        "killerNick": "brnz4n",
+        "killerSide": "CT",
+        "victimNick": "Boombl4",
+        "victimName": "Boombl4",
+        "victimSide": "TERRORIST",
+        "weapon": "ak47",
+        "headShot": true,
+        "eventId": 3087894574,
+        "victimX": -1716,
+        "victimY": 1101,
+        "killerX": -2538,
+        "killerY": 781,
+        "killerId": 20987,
+        "victimId": 11840,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Boombl4",
+        "killerNick": "Boombl4",
+        "killerSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "weapon": "m4a1_silencer",
+        "headShot": false,
+        "eventId": 3087894565,
+        "victimX": -1317,
+        "victimY": 897,
+        "killerX": -1716,
+        "killerY": 1101,
+        "killerId": 11840,
+        "victimId": 18835,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Forester",
+        "killerNick": "Forester",
+        "killerSide": "TERRORIST",
+        "victimNick": "exit",
+        "victimName": "exit",
+        "victimSide": "CT",
+        "weapon": "nova",
+        "headShot": true,
+        "eventId": 3087894538,
+        "victimX": -1412,
+        "victimY": 925,
+        "killerX": -1495,
+        "killerY": 597,
+        "killerId": 13982,
+        "victimId": 11154,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Forester",
+        "killerNick": "Forester",
+        "killerSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "weapon": "nova",
+        "headShot": true,
+        "eventId": 3087894374,
+        "victimX": -1382,
+        "victimY": 897,
+        "killerX": -1416,
+        "killerY": 565,
+        "killerId": 13982,
+        "victimId": 18835,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "saffee",
+        "killerNick": "saffee",
+        "killerSide": "CT",
+        "victimNick": "deko",
+        "victimName": "deko",
+        "victimSide": "TERRORIST",
+        "weapon": "usp_silencer",
+        "headShot": true,
+        "eventId": 3087894092,
+        "victimX": -902,
+        "victimY": -176,
+        "killerX": -1222,
+        "killerY": 819,
+        "killerId": 18835,
+        "victimId": 20113,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "deko",
+        "killerNick": "deko",
+        "killerSide": "TERRORIST",
+        "victimNick": "drop",
+        "victimName": "drop",
+        "victimSide": "CT",
+        "weapon": "galilar",
+        "headShot": true,
+        "eventId": 3087893999,
+        "victimX": -1166,
+        "victimY": 779,
+        "killerX": -898,
+        "killerY": -175,
+        "killerId": 20113,
+        "victimId": 19750,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Boombl4",
+        "killerNick": "Boombl4",
+        "killerSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "weapon": "elite",
+        "headShot": true,
+        "eventId": 3087893947,
+        "victimX": -1351,
+        "victimY": 942,
+        "killerX": -1520,
+        "killerY": 738,
+        "killerId": 11840,
+        "victimId": 18835,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "deko",
+        "killerNick": "deko",
+        "killerSide": "TERRORIST",
+        "victimNick": "exit",
+        "victimName": "exit",
+        "victimSide": "CT",
+        "weapon": "galilar",
+        "headShot": true,
+        "eventId": 3087893943,
+        "victimX": -940,
+        "victimY": -64,
+        "killerX": -832,
+        "killerY": -181,
+        "killerId": 20113,
+        "victimId": 11154,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "exit",
+        "killerNick": "exit",
+        "killerSide": "CT",
+        "victimNick": "NickelBack",
+        "victimName": "NickelBack",
+        "victimSide": "TERRORIST",
+        "weapon": "famas",
+        "headShot": true,
+        "eventId": 3087893696,
+        "victimX": -653,
+        "victimY": 230,
+        "killerX": -868,
+        "killerY": 828,
+        "killerId": 11154,
+        "victimId": 11498,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Boombl4",
+        "killerNick": "Boombl4",
+        "killerSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "weapon": "elite",
+        "headShot": true,
+        "eventId": 3087893686,
+        "victimX": -1135,
+        "victimY": 292,
+        "killerX": -1779,
+        "killerY": 230,
+        "killerId": 11840,
+        "victimId": 18835,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "NickelBack",
+        "killerNick": "NickelBack",
+        "killerSide": "TERRORIST",
+        "victimNick": "drop",
+        "victimName": "drop",
+        "victimSide": "CT",
+        "weapon": "tec9",
+        "headShot": true,
+        "eventId": 3087893453,
+        "victimX": -799,
+        "victimY": 664,
+        "killerX": -652,
+        "killerY": 83,
+        "killerId": 11498,
+        "victimId": 19750,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "NickelBack",
+        "killerNick": "NickelBack",
+        "killerSide": "TERRORIST",
+        "victimNick": "exit",
+        "victimName": "exit",
+        "victimSide": "CT",
+        "weapon": "tec9",
+        "headShot": true,
+        "eventId": 3087893356,
+        "victimX": -572,
+        "victimY": 187,
+        "killerX": -844,
+        "killerY": -94,
+        "killerId": 11498,
+        "victimId": 11154,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "NickelBack",
+        "killerNick": "NickelBack",
+        "killerSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "weapon": "tec9",
+        "headShot": true,
+        "eventId": 3087893323,
+        "victimX": -1044,
+        "victimY": 466,
+        "killerX": -996,
+        "killerY": -124,
+        "killerId": 11498,
+        "victimId": 18835,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "saffee",
+        "killerNick": "saffee",
+        "killerSide": "CT",
+        "victimNick": "TRAVIS",
+        "victimName": "TRAVIS",
+        "victimSide": "TERRORIST",
+        "weapon": "usp_silencer",
+        "headShot": true,
+        "eventId": 3087893199,
+        "victimX": -1317,
+        "victimY": 175,
+        "killerX": -852,
+        "killerY": 732,
+        "killerId": 18835,
+        "victimId": 16948,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "TRAVIS",
+        "killerNick": "TRAVIS",
+        "killerSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "weapon": "ssg08",
+        "headShot": false,
+        "eventId": 3087893156,
+        "victimX": -874,
+        "victimY": 668,
+        "killerX": -1373,
+        "killerY": 153,
+        "killerId": 16948,
+        "victimId": 18835,
+        "penetrated": true,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "brnz4n",
+        "killerNick": "brnz4n",
+        "killerSide": "CT",
+        "victimNick": "Boombl4",
+        "victimName": "Boombl4",
+        "victimSide": "TERRORIST",
+        "weapon": "usp_silencer",
+        "headShot": true,
+        "eventId": 3087892997,
+        "victimX": -1353,
+        "victimY": 931,
+        "killerX": -1959,
+        "killerY": 546,
+        "killerId": 20987,
+        "victimId": 11840,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "saffee",
+        "killerNick": "saffee",
+        "killerSide": "CT",
+        "victimNick": "Forester",
+        "victimName": "Forester",
+        "victimSide": "TERRORIST",
+        "weapon": "usp_silencer",
+        "headShot": true,
+        "eventId": 3087892984,
+        "victimX": -1199,
+        "victimY": 189,
+        "killerX": -846,
+        "killerY": 780,
+        "killerId": 18835,
+        "victimId": 13982,
+        "penetrated": true,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "NickelBack",
+        "killerNick": "NickelBack",
+        "killerSide": "TERRORIST",
+        "victimNick": "insani",
+        "victimName": "insani",
+        "victimSide": "CT",
+        "weapon": "tec9",
+        "headShot": false,
+        "eventId": 3087892957,
+        "victimX": -404,
+        "victimY": -874,
+        "killerX": -191,
+        "killerY": -1075,
+        "killerId": 11498,
+        "victimId": 21037,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Forester",
+        "killerNick": "Forester",
+        "killerSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "weapon": "p250",
+        "headShot": true,
+        "eventId": 3087892919,
+        "victimX": -1098,
+        "victimY": 409,
+        "killerX": -1279,
+        "killerY": 237,
+        "killerId": 13982,
+        "victimId": 18835,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "brnz4n",
+        "killerNick": "brnz4n",
+        "killerSide": "CT",
+        "victimNick": "deko",
+        "victimName": "deko",
+        "victimSide": "TERRORIST",
+        "weapon": "ak47",
+        "headShot": true,
+        "eventId": 3087892832,
+        "victimX": -2324,
+        "victimY": -220,
+        "killerX": -2428,
+        "killerY": 762,
+        "killerId": 20987,
+        "victimId": 20113,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Assist": {
+        "assisterName": "TRAVIS",
+        "assisterNick": "TRAVIS",
+        "assisterSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "killEventId": 3087892726
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Forester",
+        "killerNick": "Forester",
+        "killerSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "weapon": "p250",
+        "headShot": true,
+        "eventId": 3087892726,
+        "victimX": -1075,
+        "victimY": 218,
+        "killerX": -1479,
+        "killerY": 298,
+        "killerId": 13982,
+        "victimId": 18835,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "deko",
+        "killerNick": "deko",
+        "killerSide": "TERRORIST",
+        "victimNick": "exit",
+        "victimName": "exit",
+        "victimSide": "CT",
+        "weapon": "galilar",
+        "headShot": true,
+        "eventId": 3087892580,
+        "victimX": -2585,
+        "victimY": 310,
+        "killerX": -2445,
+        "killerY": -126,
+        "killerId": 20113,
+        "victimId": 11154,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Forester",
+        "killerNick": "Forester",
+        "killerSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "weapon": "p250",
+        "headShot": false,
+        "eventId": 3087892499,
+        "victimX": -1666,
+        "victimY": 366,
+        "killerX": -1784,
+        "killerY": 328,
+        "killerId": 13982,
+        "victimId": 18835,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "exit",
+        "killerNick": "exit",
+        "killerSide": "CT",
+        "victimNick": "Boombl4",
+        "victimName": "Boombl4",
+        "victimSide": "TERRORIST",
+        "weapon": "famas",
+        "headShot": false,
+        "eventId": 3087892085,
+        "victimX": -1563,
+        "victimY": 1017,
+        "killerX": -1329,
+        "killerY": 908,
+        "killerId": 11154,
+        "victimId": 11840,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "insani",
+        "killerNick": "insani",
+        "killerSide": "CT",
+        "victimNick": "NickelBack",
+        "victimName": "NickelBack",
+        "victimSide": "TERRORIST",
+        "weapon": "deagle",
+        "headShot": false,
+        "eventId": 3087892078,
+        "victimX": -111,
+        "victimY": -426,
+        "killerX": -63,
+        "killerY": -434,
+        "killerId": 21037,
+        "victimId": 11498,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "drop",
+        "killerNick": "drop",
+        "killerSide": "CT",
+        "victimNick": "deko",
+        "victimName": "deko",
+        "victimSide": "TERRORIST",
+        "weapon": "knife_butterfly",
+        "headShot": false,
+        "eventId": 3087891902,
+        "victimX": -1774,
+        "victimY": 937,
+        "killerX": -1780,
+        "killerY": 906,
+        "killerId": 19750,
+        "victimId": 20113,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "deko",
+        "killerNick": "deko",
+        "killerSide": "TERRORIST",
+        "victimNick": "brnz4n",
+        "victimName": "brnz4n",
+        "victimSide": "CT",
+        "weapon": "galilar",
+        "headShot": true,
+        "eventId": 3087891712,
+        "victimX": -860,
+        "victimY": 940,
+        "killerX": -1400,
+        "killerY": 886,
+        "killerId": 20113,
+        "victimId": 20987,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "deko",
+        "killerNick": "deko",
+        "killerSide": "TERRORIST",
+        "victimNick": "exit",
+        "victimName": "exit",
+        "victimSide": "CT",
+        "weapon": "galilar",
+        "headShot": true,
+        "eventId": 3087891705,
+        "victimX": -1044,
+        "victimY": 924,
+        "killerX": -1400,
+        "killerY": 886,
+        "killerId": 20113,
+        "victimId": 11154,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "deko",
+        "killerNick": "deko",
+        "killerSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "weapon": "galilar",
+        "headShot": false,
+        "eventId": 3087891676,
+        "victimX": -1060,
+        "victimY": 813,
+        "killerX": -1333,
+        "killerY": 908,
+        "killerId": 20113,
+        "victimId": 18835,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "deko",
+        "killerNick": "deko",
+        "killerSide": "TERRORIST",
+        "victimNick": "brnz4n",
+        "victimName": "brnz4n",
+        "victimSide": "CT",
+        "weapon": "galilar",
+        "headShot": true,
+        "eventId": 3087891560,
+        "victimX": -1166,
+        "victimY": 779,
+        "killerX": -1290,
+        "killerY": 923,
+        "killerId": 20113,
+        "victimId": 20987,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "drop",
+        "killerNick": "drop",
+        "killerSide": "CT",
+        "victimNick": "TRAVIS",
+        "victimName": "TRAVIS",
+        "victimSide": "TERRORIST",
+        "weapon": "deagle",
+        "headShot": true,
+        "eventId": 3087891514,
+        "victimX": -1855,
+        "victimY": 127,
+        "killerX": -1378,
+        "killerY": 391,
+        "killerId": 19750,
+        "victimId": 16948,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "deko",
+        "killerNick": "deko",
+        "killerSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "weapon": "galilar",
+        "headShot": false,
+        "eventId": 3087891508,
+        "victimX": -975,
+        "victimY": 713,
+        "killerX": -1269,
+        "killerY": 926,
+        "killerId": 20113,
+        "victimId": 18835,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "drop",
+        "killerNick": "drop",
+        "killerSide": "CT",
+        "victimNick": "Forester",
+        "victimName": "Forester",
+        "victimSide": "TERRORIST",
+        "weapon": "deagle",
+        "headShot": false,
+        "eventId": 3087891409,
+        "victimX": -1951,
+        "victimY": 39,
+        "killerX": -1390,
+        "killerY": 407,
+        "killerId": 19750,
+        "victimId": 13982,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "deko",
+        "killerNick": "deko",
+        "killerSide": "TERRORIST",
+        "victimNick": "exit",
+        "victimName": "exit",
+        "victimSide": "CT",
+        "weapon": "galilar",
+        "headShot": true,
+        "eventId": 3087891390,
+        "victimX": -1189,
+        "victimY": 862,
+        "killerX": -1269,
+        "killerY": 926,
+        "killerId": 20113,
+        "victimId": 11154,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "TRAVIS",
+        "killerNick": "TRAVIS",
+        "killerSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "weapon": "awp",
+        "headShot": false,
+        "eventId": 3087891289,
+        "victimX": -1661,
+        "victimY": 363,
+        "killerX": -1838,
+        "killerY": 22,
+        "killerId": 16948,
+        "victimId": 18835,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "deko",
+        "killerNick": "deko",
+        "killerSide": "TERRORIST",
+        "victimNick": "brnz4n",
+        "victimName": "brnz4n",
+        "victimSide": "CT",
+        "weapon": "galilar",
+        "headShot": true,
+        "eventId": 3087891245,
+        "victimX": -931,
+        "victimY": 701,
+        "killerX": -1334,
+        "killerY": 922,
+        "killerId": 20113,
+        "victimId": 20987,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "deko",
+        "killerNick": "deko",
+        "killerSide": "TERRORIST",
+        "victimNick": "exit",
+        "victimName": "exit",
+        "victimSide": "CT",
+        "weapon": "galilar",
+        "headShot": true,
+        "eventId": 3087891170,
+        "victimX": -1127,
+        "victimY": 926,
+        "killerX": -1517,
+        "killerY": 887,
+        "killerId": 20113,
+        "victimId": 11154,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Forester",
+        "killerNick": "Forester",
+        "killerSide": "TERRORIST",
+        "victimNick": "drop",
+        "victimName": "drop",
+        "victimSide": "CT",
+        "weapon": "deagle",
+        "headShot": true,
+        "eventId": 3087890988,
+        "victimX": -1984,
+        "victimY": 289,
+        "killerX": -1566,
+        "killerY": -241,
+        "killerId": 13982,
+        "victimId": 19750,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "drop",
+        "killerNick": "drop",
+        "killerSide": "CT",
+        "victimNick": "Boombl4",
+        "victimName": "Boombl4",
+        "victimSide": "TERRORIST",
+        "weapon": "deagle",
+        "headShot": true,
+        "eventId": 3087890930,
+        "victimX": -1223,
+        "victimY": 98,
+        "killerX": -1809,
+        "killerY": 381,
+        "killerId": 19750,
+        "victimId": 11840,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Boombl4",
+        "killerNick": "Boombl4",
+        "killerSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "weapon": "glock",
+        "headShot": true,
+        "eventId": 3087890759,
+        "victimX": -1327,
+        "victimY": 244,
+        "killerX": -1232,
+        "killerY": 100,
+        "killerId": 11840,
+        "victimId": 18835,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Boombl4",
+        "killerNick": "Boombl4",
+        "killerSide": "TERRORIST",
+        "victimNick": "exit",
+        "victimName": "exit",
+        "victimSide": "CT",
+        "weapon": "glock",
+        "headShot": true,
+        "eventId": 3087890690,
+        "victimX": -974,
+        "victimY": 22,
+        "killerX": -972,
+        "killerY": -39,
+        "killerId": 11840,
+        "victimId": 11154,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "drop",
+        "killerNick": "drop",
+        "killerSide": "CT",
+        "victimNick": "TRAVIS",
+        "victimName": "TRAVIS",
+        "victimSide": "TERRORIST",
+        "weapon": "deagle",
+        "headShot": true,
+        "eventId": 3087890591,
+        "victimX": -1497,
+        "victimY": -432,
+        "killerX": -1703,
+        "killerY": 20,
+        "killerId": 19750,
+        "victimId": 16948,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "TRAVIS",
+        "killerNick": "TRAVIS",
+        "killerSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "weapon": "glock",
+        "headShot": true,
+        "eventId": 3087890495,
+        "victimX": -1409,
+        "victimY": -361,
+        "killerX": -1777,
+        "killerY": -503,
+        "killerId": 16948,
+        "victimId": 18835,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "insani",
+        "killerNick": "insani",
+        "killerSide": "CT",
+        "victimNick": "NickelBack",
+        "victimName": "NickelBack",
+        "victimSide": "TERRORIST",
+        "weapon": "awp",
+        "headShot": false,
+        "eventId": 3087890274,
+        "victimX": -2472,
+        "victimY": 478,
+        "killerX": -1432,
+        "killerY": 663,
+        "killerId": 21037,
+        "victimId": 11498,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Forester",
+        "killerNick": "Forester",
+        "killerSide": "TERRORIST",
+        "victimNick": "drop",
+        "victimName": "drop",
+        "victimSide": "CT",
+        "weapon": "deagle",
+        "headShot": true,
+        "eventId": 3087890040,
+        "victimX": -1907,
+        "victimY": -517,
+        "killerX": -2145,
+        "killerY": -1072,
+        "killerId": 13982,
+        "victimId": 19750,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "drop",
+        "killerNick": "drop",
+        "killerSide": "CT",
+        "victimNick": "TRAVIS",
+        "victimName": "TRAVIS",
+        "victimSide": "TERRORIST",
+        "weapon": "usp_silencer",
+        "headShot": true,
+        "eventId": 3087889707,
+        "victimX": -1763,
+        "victimY": -512,
+        "killerX": -1556,
+        "killerY": -302,
+        "killerId": 19750,
+        "victimId": 16948,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Suicide": {
+        "playerName": "brnz4n",
+        "playerNick": "brnz4n",
+        "side": "CT",
+        "weapon": "world"
+      }
+    },
+    {
+      "Assist": {
+        "assisterName": "Forester",
+        "assisterNick": "Forester",
+        "assisterSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "killEventId": 3087889563
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "TRAVIS",
+        "killerNick": "TRAVIS",
+        "killerSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "weapon": "glock",
+        "headShot": true,
+        "eventId": 3087889563,
+        "victimX": -1563,
+        "victimY": -388,
+        "killerX": -1934,
+        "killerY": -427,
+        "killerId": 16948,
+        "victimId": 18835,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "drop",
+        "killerNick": "drop",
+        "killerSide": "CT",
+        "victimNick": "Forester",
+        "victimName": "Forester",
+        "victimSide": "TERRORIST",
+        "weapon": "awp",
+        "headShot": false,
+        "eventId": 3087889541,
+        "victimX": -2325,
+        "victimY": -730,
+        "killerX": -1467,
+        "killerY": -296,
+        "killerId": 19750,
+        "victimId": 13982,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Suicide": {
+        "playerName": "brnz4n",
+        "playerNick": "brnz4n",
+        "side": "CT",
+        "weapon": "world"
+      }
+    },
+    {
+      "Assist": {
+        "assisterName": "insani",
+        "assisterNick": "insani",
+        "assisterSide": "CT",
+        "victimNick": "TRAVIS",
+        "victimName": "TRAVIS",
+        "victimSide": "TERRORIST",
+        "killEventId": 3087888425
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "exit",
+        "killerNick": "exit",
+        "killerSide": "CT",
+        "victimNick": "TRAVIS",
+        "victimName": "TRAVIS",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer",
+        "headShot": false,
+        "eventId": 3087888425,
+        "victimX": -1422,
+        "victimY": 105,
+        "killerX": -926,
+        "killerY": 87,
+        "killerId": 11154,
+        "victimId": 16948,
+        "penetrated": true,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "exit",
+        "killerNick": "exit",
+        "killerSide": "CT",
+        "victimNick": "Forester",
+        "victimName": "Forester",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer",
+        "headShot": false,
+        "eventId": 3087888342,
+        "victimX": -1426,
+        "victimY": 385,
+        "killerX": -934,
+        "killerY": 77,
+        "killerId": 11154,
+        "victimId": 13982,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "TRAVIS",
+        "killerNick": "TRAVIS",
+        "killerSide": "TERRORIST",
+        "victimNick": "drop",
+        "victimName": "drop",
+        "victimSide": "CT",
+        "weapon": "galilar",
+        "headShot": false,
+        "eventId": 3087888147,
+        "victimX": -1500,
+        "victimY": 606,
+        "killerX": -1436,
+        "killerY": 148,
+        "killerId": 16948,
+        "victimId": 19750,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "TRAVIS",
+        "killerNick": "TRAVIS",
+        "killerSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "weapon": "galilar",
+        "headShot": true,
+        "eventId": 3087887994,
+        "victimX": -1056,
+        "victimY": 149,
+        "killerX": -1712,
+        "killerY": 229,
+        "killerId": 16948,
+        "victimId": 18835,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "drop",
+        "killerNick": "drop",
+        "killerSide": "CT",
+        "victimNick": "NickelBack",
+        "victimName": "NickelBack",
+        "victimSide": "TERRORIST",
+        "weapon": "awp",
+        "headShot": false,
+        "eventId": 3087887744,
+        "victimX": -2469,
+        "victimY": 113,
+        "killerX": -2260,
+        "killerY": 570,
+        "killerId": 19750,
+        "victimId": 11498,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "TRAVIS",
+        "killerNick": "TRAVIS",
+        "killerSide": "TERRORIST",
+        "victimNick": "insani",
+        "victimName": "insani",
+        "victimSide": "CT",
+        "weapon": "galilar",
+        "headShot": false,
+        "eventId": 3087887737,
+        "victimX": -1032,
+        "victimY": 299,
+        "killerX": -1910,
+        "killerY": 333,
+        "killerId": 16948,
+        "victimId": 21037,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "TRAVIS",
+        "killerNick": "TRAVIS",
+        "killerSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "weapon": "galilar",
+        "headShot": false,
+        "eventId": 3087887674,
+        "victimX": -1048,
+        "victimY": 113,
+        "killerX": -1917,
+        "killerY": 300,
+        "killerId": 16948,
+        "victimId": 18835,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Suicide": {
+        "playerName": "Boombl4",
+        "playerNick": "Boombl4",
+        "side": "TERRORIST",
+        "weapon": "world"
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "TRAVIS",
+        "killerNick": "TRAVIS",
+        "killerSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "weapon": "galilar",
+        "headShot": false,
+        "eventId": 3087887087,
+        "victimX": -1901,
+        "victimY": 159,
+        "killerX": -1908,
+        "killerY": -238,
+        "killerId": 16948,
+        "victimId": 18835,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "brnz4n",
+        "killerNick": "brnz4n",
+        "killerSide": "CT",
+        "victimNick": "Forester",
+        "victimName": "Forester",
+        "victimSide": "TERRORIST",
+        "weapon": "ak47",
+        "headShot": false,
+        "eventId": 3087886715,
+        "victimX": -1946,
+        "victimY": 108,
+        "killerX": -1462,
+        "killerY": 541,
+        "killerId": 20987,
+        "victimId": 13982,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "drop",
+        "killerNick": "drop",
+        "killerSide": "CT",
+        "victimNick": "NickelBack",
+        "victimName": "NickelBack",
+        "victimSide": "TERRORIST",
+        "weapon": "deagle",
+        "headShot": true,
+        "eventId": 3087886438,
+        "victimX": -1903,
+        "victimY": 95,
+        "killerX": -1175,
+        "killerY": 345,
+        "killerId": 19750,
+        "victimId": 11498,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Suicide": {
+        "playerName": "Boombl4",
+        "playerNick": "Boombl4",
+        "side": "TERRORIST",
+        "weapon": "world"
+      }
+    },
+    {
+      "Suicide": {
+        "playerName": "saffee",
+        "playerNick": "saffee",
+        "side": "CT",
+        "weapon": "world"
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "drop",
+        "killerNick": "drop",
+        "killerSide": "CT",
+        "victimNick": "TRAVIS",
+        "victimName": "TRAVIS",
+        "victimSide": "TERRORIST",
+        "weapon": "deagle",
+        "headShot": true,
+        "eventId": 3087886155,
+        "victimX": -1839,
+        "victimY": 132,
+        "killerX": -1184,
+        "killerY": 366,
+        "killerId": 19750,
+        "victimId": 16948,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Forester",
+        "killerNick": "Forester",
+        "killerSide": "TERRORIST",
+        "victimNick": "insani",
+        "victimName": "insani",
+        "victimSide": "CT",
+        "weapon": "deagle",
+        "headShot": false,
+        "eventId": 3087885830,
+        "victimX": -1923,
+        "victimY": 439,
+        "killerX": -1681,
+        "killerY": -195,
+        "killerId": 13982,
+        "victimId": 21037,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Forester",
+        "killerNick": "Forester",
+        "killerSide": "TERRORIST",
+        "victimNick": "drop",
+        "victimName": "drop",
+        "victimSide": "CT",
+        "weapon": "deagle",
+        "headShot": true,
+        "eventId": 3087885527,
+        "victimX": -1955,
+        "victimY": 324,
+        "killerX": -1449,
+        "killerY": -479,
+        "killerId": 13982,
+        "victimId": 19750,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Assist": {
+        "assisterName": "insani",
+        "assisterNick": "insani",
+        "assisterSide": "CT",
+        "victimNick": "TRAVIS",
+        "victimName": "TRAVIS",
+        "victimSide": "TERRORIST",
+        "killEventId": 3087885160
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "drop",
+        "killerNick": "drop",
+        "killerSide": "CT",
+        "victimNick": "TRAVIS",
+        "victimName": "TRAVIS",
+        "victimSide": "TERRORIST",
+        "weapon": "galilar",
+        "headShot": true,
+        "eventId": 3087885160,
+        "victimX": -1613,
+        "victimY": -264,
+        "killerX": -1975,
+        "killerY": 381,
+        "killerId": 19750,
+        "victimId": 16948,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "saffee",
+        "killerNick": "saffee",
+        "killerSide": "CT",
+        "victimNick": "Forester",
+        "victimName": "Forester",
+        "victimSide": "TERRORIST",
+        "weapon": "ak47",
+        "headShot": false,
+        "eventId": 3087884487,
+        "victimX": -1933,
+        "victimY": 131,
+        "killerX": -1001,
+        "killerY": 303,
+        "killerId": 18835,
+        "victimId": 13982,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "drop",
+        "killerNick": "drop",
+        "killerSide": "CT",
+        "victimNick": "NickelBack",
+        "victimName": "NickelBack",
+        "victimSide": "TERRORIST",
+        "weapon": "ssg08",
+        "headShot": true,
+        "eventId": 3087884377,
+        "victimX": -1783,
+        "victimY": 137,
+        "killerX": -1054,
+        "killerY": 400,
+        "killerId": 19750,
+        "victimId": 11498,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "NickelBack",
+        "killerNick": "NickelBack",
+        "killerSide": "TERRORIST",
+        "victimNick": "insani",
+        "victimName": "insani",
+        "victimSide": "CT",
+        "weapon": "awp",
+        "headShot": false,
+        "eventId": 3087884226,
+        "victimX": -939,
+        "victimY": 64,
+        "killerX": -1781,
+        "killerY": 176,
+        "killerId": 11498,
+        "victimId": 21037,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "insani",
+        "killerNick": "insani",
+        "killerSide": "CT",
+        "victimNick": "TRAVIS",
+        "victimName": "TRAVIS",
+        "victimSide": "TERRORIST",
+        "weapon": "usp_silencer",
+        "headShot": true,
+        "eventId": 3087884065,
+        "victimX": -1766,
+        "victimY": 359,
+        "killerX": -941,
+        "killerY": 51,
+        "killerId": 21037,
+        "victimId": 16948,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "NickelBack",
+        "killerNick": "NickelBack",
+        "killerSide": "TERRORIST",
+        "victimNick": "drop",
+        "victimName": "drop",
+        "victimSide": "CT",
+        "weapon": "awp",
+        "headShot": false,
+        "eventId": 3087884056,
+        "victimX": -1188,
+        "victimY": 374,
+        "killerX": -1783,
+        "killerY": 129,
+        "killerId": 11498,
+        "victimId": 19750,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Suicide": {
+        "playerName": "Boombl4",
+        "playerNick": "Boombl4",
+        "side": "TERRORIST",
+        "weapon": "world"
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "NickelBack",
+        "killerNick": "NickelBack",
+        "killerSide": "TERRORIST",
+        "victimNick": "drop",
+        "victimName": "drop",
+        "victimSide": "CT",
+        "weapon": "awp",
+        "headShot": false,
+        "eventId": 3087883614,
+        "victimX": -1926,
+        "victimY": 368,
+        "killerX": -1495,
+        "killerY": -482,
+        "killerId": 11498,
+        "victimId": 19750,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Assist": {
+        "assisterName": "TRAVIS",
+        "assisterNick": "TRAVIS",
+        "assisterSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "killEventId": 3087883602
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Forester",
+        "killerNick": "Forester",
+        "killerSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "weapon": "deagle",
+        "headShot": false,
+        "eventId": 3087883602,
+        "victimX": -1942,
+        "victimY": 286,
+        "killerX": -1442,
+        "killerY": -483,
+        "killerId": 13982,
+        "victimId": 18835,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "saffee",
+        "killerNick": "saffee",
+        "killerSide": "CT",
+        "victimNick": "Boombl4",
+        "victimName": "Boombl4",
+        "victimSide": "TERRORIST",
+        "weapon": "p250",
+        "headShot": true,
+        "eventId": 3087883172,
+        "victimX": -1562,
+        "victimY": 913,
+        "killerX": -1463,
+        "killerY": 439,
+        "killerId": 18835,
+        "victimId": 11840,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "brnz4n",
+        "killerNick": "brnz4n",
+        "killerSide": "CT",
+        "victimNick": "TRAVIS",
+        "victimName": "TRAVIS",
+        "victimSide": "TERRORIST",
+        "weapon": "deagle",
+        "headShot": true,
+        "eventId": 3087882760,
+        "victimX": -1686,
+        "victimY": -38,
+        "killerX": -1933,
+        "killerY": 234,
+        "killerId": 20987,
+        "victimId": 16948,
+        "penetrated": true,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "brnz4n",
+        "killerNick": "brnz4n",
+        "killerSide": "CT",
+        "victimNick": "Forester",
+        "victimName": "Forester",
+        "victimSide": "TERRORIST",
+        "weapon": "deagle",
+        "headShot": true,
+        "eventId": 3087882711,
+        "victimX": -1567,
+        "victimY": -281,
+        "killerX": -1929,
+        "killerY": 238,
+        "killerId": 20987,
+        "victimId": 13982,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "insani",
+        "killerNick": "insani",
+        "killerSide": "CT",
+        "victimNick": "deko",
+        "victimName": "deko",
+        "victimSide": "TERRORIST",
+        "weapon": "usp_silencer",
+        "headShot": true,
+        "eventId": 3087882610,
+        "victimX": -630,
+        "victimY": -257,
+        "killerX": -972,
+        "killerY": -76,
+        "killerId": 21037,
+        "victimId": 20113,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "brnz4n",
+        "killerNick": "brnz4n",
+        "killerSide": "CT",
+        "victimNick": "NickelBack",
+        "victimName": "NickelBack",
+        "victimSide": "TERRORIST",
+        "weapon": "deagle",
+        "headShot": true,
+        "eventId": 3087882527,
+        "victimX": -1489,
+        "victimY": -511,
+        "killerX": -1875,
+        "killerY": 272,
+        "killerId": 20987,
+        "victimId": 11498,
+        "penetrated": true,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "NickelBack",
+        "killerNick": "NickelBack",
+        "killerSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "weapon": "awp",
+        "headShot": false,
+        "eventId": 3087882418,
+        "victimX": -1905,
+        "victimY": 323,
+        "killerX": -1492,
+        "killerY": -512,
+        "killerId": 11498,
+        "victimId": 18835,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": true,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "deko",
+        "killerNick": "deko",
+        "killerSide": "TERRORIST",
+        "victimNick": "exit",
+        "victimName": "exit",
+        "victimSide": "CT",
+        "weapon": "ak47",
+        "headShot": true,
+        "eventId": 3087882389,
+        "victimX": -87,
+        "victimY": -930,
+        "killerX": -409,
+        "killerY": -375,
+        "killerId": 20113,
+        "victimId": 11154,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "NickelBack",
+        "killerNick": "NickelBack",
+        "killerSide": "TERRORIST",
+        "victimNick": "drop",
+        "victimName": "drop",
+        "victimSide": "CT",
+        "weapon": "awp",
+        "headShot": false,
+        "eventId": 3087881984,
+        "victimX": -1963,
+        "victimY": 393,
+        "killerX": -1480,
+        "killerY": -510,
+        "killerId": 11498,
+        "victimId": 19750,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "drop",
+        "killerNick": "drop",
+        "killerSide": "CT",
+        "victimNick": "TRAVIS",
+        "victimName": "TRAVIS",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer",
+        "headShot": false,
+        "eventId": 3087881895,
+        "victimX": -1627,
+        "victimY": -243,
+        "killerX": -2046,
+        "killerY": 385,
+        "killerId": 19750,
+        "victimId": 16948,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "drop",
+        "killerNick": "drop",
+        "killerSide": "CT",
+        "victimNick": "Forester",
+        "victimName": "Forester",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer",
+        "headShot": false,
+        "eventId": 3087881839,
+        "victimX": -1521,
+        "victimY": -257,
+        "killerX": -2047,
+        "killerY": 385,
+        "killerId": 19750,
+        "victimId": 13982,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Forester",
+        "killerNick": "Forester",
+        "killerSide": "TERRORIST",
+        "victimNick": "brnz4n",
+        "victimName": "brnz4n",
+        "victimSide": "CT",
+        "weapon": "tec9",
+        "headShot": true,
+        "eventId": 3087881775,
+        "victimX": -1858,
+        "victimY": 150,
+        "killerX": -1518,
+        "killerY": -274,
+        "killerId": 13982,
+        "victimId": 20987,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Forester",
+        "killerNick": "Forester",
+        "killerSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "weapon": "tec9",
+        "headShot": false,
+        "eventId": 3087881676,
+        "victimX": -1929,
+        "victimY": 285,
+        "killerX": -1459,
+        "killerY": -395,
+        "killerId": 13982,
+        "victimId": 18835,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "brnz4n",
+        "killerNick": "brnz4n",
+        "killerSide": "CT",
+        "victimNick": "TRAVIS",
+        "victimName": "TRAVIS",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer",
+        "headShot": true,
+        "eventId": 3087881443,
+        "victimX": -1558,
+        "victimY": -352,
+        "killerX": -1863,
+        "killerY": 232,
+        "killerId": 20987,
+        "victimId": 16948,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "brnz4n",
+        "killerNick": "brnz4n",
+        "killerSide": "CT",
+        "victimNick": "NickelBack",
+        "victimName": "NickelBack",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer",
+        "headShot": false,
+        "eventId": 3087881386,
+        "victimX": -1472,
+        "victimY": -478,
+        "killerX": -1898,
+        "killerY": 210,
+        "killerId": 20987,
+        "victimId": 11498,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "NickelBack",
+        "killerNick": "NickelBack",
+        "killerSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "weapon": "ak47",
+        "headShot": false,
+        "eventId": 3087881204,
+        "victimX": -1342,
+        "victimY": -196,
+        "killerX": -1934,
+        "killerY": -546,
+        "killerId": 11498,
+        "victimId": 18835,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "drop",
+        "killerNick": "drop",
+        "killerSide": "CT",
+        "victimNick": "deko",
+        "victimName": "deko",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer",
+        "headShot": true,
+        "eventId": 3087881168,
+        "victimX": -2112,
+        "victimY": 1049,
+        "killerX": -1445,
+        "killerY": 635,
+        "killerId": 19750,
+        "victimId": 20113,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "brnz4n",
+        "killerNick": "brnz4n",
+        "killerSide": "CT",
+        "victimNick": "Forester",
+        "victimName": "Forester",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer",
+        "headShot": true,
+        "eventId": 3087880999,
+        "victimX": -1612,
+        "victimY": -525,
+        "killerX": -1554,
+        "killerY": -53,
+        "killerId": 20987,
+        "victimId": 13982,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "drop",
+        "killerNick": "drop",
+        "killerSide": "CT",
+        "victimNick": "TRAVIS",
+        "victimName": "TRAVIS",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer",
+        "headShot": true,
+        "eventId": 3087880909,
+        "victimX": -1471,
+        "victimY": -469,
+        "killerX": -2020,
+        "killerY": 400,
+        "killerId": 19750,
+        "victimId": 16948,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "saffee",
+        "killerNick": "saffee",
+        "killerSide": "CT",
+        "victimNick": "Forester",
+        "victimName": "Forester",
+        "victimSide": "TERRORIST",
+        "weapon": "ak47",
+        "headShot": false,
+        "eventId": 3087880505,
+        "victimX": -1938,
+        "victimY": 20,
+        "killerX": -1395,
+        "killerY": 459,
+        "killerId": 18835,
+        "victimId": 13982,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Forester",
+        "killerNick": "Forester",
+        "killerSide": "TERRORIST",
+        "victimNick": "drop",
+        "victimName": "drop",
+        "victimSide": "CT",
+        "weapon": "mp5sd",
+        "headShot": true,
+        "eventId": 3087880332,
+        "victimX": -2042,
+        "victimY": 225,
+        "killerX": -1551,
+        "killerY": -341,
+        "killerId": 13982,
+        "victimId": 19750,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "saffee",
+        "killerNick": "saffee",
+        "killerSide": "CT",
+        "victimNick": "NickelBack",
+        "victimName": "NickelBack",
+        "victimSide": "TERRORIST",
+        "weapon": "ak47",
+        "headShot": true,
+        "eventId": 3087880326,
+        "victimX": -2086,
+        "victimY": 622,
+        "killerX": -1394,
+        "killerY": 653,
+        "killerId": 18835,
+        "victimId": 11498,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "NickelBack",
+        "killerNick": "NickelBack",
+        "killerSide": "TERRORIST",
+        "victimNick": "brnz4n",
+        "victimName": "brnz4n",
+        "victimSide": "CT",
+        "weapon": "ak47",
+        "headShot": false,
+        "eventId": 3087880299,
+        "victimX": -1458,
+        "victimY": 657,
+        "killerX": -2089,
+        "killerY": 623,
+        "killerId": 11498,
+        "victimId": 20987,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "drop",
+        "killerNick": "drop",
+        "killerSide": "CT",
+        "victimNick": "TRAVIS",
+        "victimName": "TRAVIS",
+        "victimSide": "TERRORIST",
+        "weapon": "ak47",
+        "headShot": false,
+        "eventId": 3087880181,
+        "victimX": -1896,
+        "victimY": 18,
+        "killerX": -1761,
+        "killerY": 377,
+        "killerId": 19750,
+        "victimId": 16948,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Suicide": {
+        "playerName": "hooch",
+        "playerNick": "hooch",
+        "side": "CT",
+        "weapon": "world"
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "drop",
+        "killerNick": "drop",
+        "killerSide": "CT",
+        "victimNick": "Boombl4",
+        "victimName": "Boombl4",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer",
+        "headShot": false,
+        "eventId": 3087880004,
+        "victimX": -1417,
+        "victimY": 849,
+        "killerX": -1460,
+        "killerY": 513,
+        "killerId": 19750,
+        "victimId": 11840,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Boombl4",
+        "killerNick": "Boombl4",
+        "killerSide": "TERRORIST",
+        "victimNick": "brnz4n",
+        "victimName": "brnz4n",
+        "victimSide": "CT",
+        "weapon": "famas",
+        "headShot": false,
+        "eventId": 3087879944,
+        "victimX": -1366,
+        "victimY": 961,
+        "killerX": -1439,
+        "killerY": 870,
+        "killerId": 11840,
+        "victimId": 20987,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Boombl4",
+        "killerNick": "Boombl4",
+        "killerSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "weapon": "famas",
+        "headShot": true,
+        "eventId": 3087879880,
+        "victimX": -1445,
+        "victimY": 764,
+        "killerX": -1489,
+        "killerY": 767,
+        "killerId": 11840,
+        "victimId": 18835,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "drop",
+        "killerNick": "drop",
+        "killerSide": "CT",
+        "victimNick": "Forester",
+        "victimName": "Forester",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer",
+        "headShot": true,
+        "eventId": 3087879812,
+        "victimX": -1700,
+        "victimY": -211,
+        "killerX": -1939,
+        "killerY": 356,
+        "killerId": 19750,
+        "victimId": 13982,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Forester",
+        "killerNick": "Forester",
+        "killerSide": "TERRORIST",
+        "victimNick": "exit",
+        "victimName": "exit",
+        "victimSide": "CT",
+        "weapon": "mp5sd",
+        "headShot": false,
+        "eventId": 3087879663,
+        "victimX": -1970,
+        "victimY": 170,
+        "killerX": -1469,
+        "killerY": -414,
+        "killerId": 13982,
+        "victimId": 11154,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "saffee",
+        "killerNick": "saffee",
+        "killerSide": "CT",
+        "victimNick": "TRAVIS",
+        "victimName": "TRAVIS",
+        "victimSide": "TERRORIST",
+        "weapon": "ak47",
+        "headShot": false,
+        "eventId": 3087879498,
+        "victimX": -1878,
+        "victimY": -111,
+        "killerX": -1847,
+        "killerY": 417,
+        "killerId": 18835,
+        "victimId": 16948,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "PlayerJoin": {
+        "playerName": "brnz4n",
+        "playerNick": "brnz4n"
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "drop",
+        "killerNick": "drop",
+        "killerSide": "CT",
+        "victimNick": "Forester",
+        "victimName": "Forester",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer",
+        "headShot": true,
+        "eventId": 3087878969,
+        "victimX": -1936,
+        "victimY": 109,
+        "killerX": -1033,
+        "killerY": 377,
+        "killerId": 19750,
+        "victimId": 13982,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Forester",
+        "killerNick": "Forester",
+        "killerSide": "TERRORIST",
+        "victimNick": "drop",
+        "victimName": "drop",
+        "victimSide": "CT",
+        "weapon": "mp5sd",
+        "headShot": true,
+        "eventId": 3087878800,
+        "victimX": -1419,
+        "victimY": 435,
+        "killerX": -1941,
+        "killerY": -2,
+        "killerId": 13982,
+        "victimId": 19750,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "drop",
+        "killerNick": "drop",
+        "killerSide": "CT",
+        "victimNick": "TRAVIS",
+        "victimName": "TRAVIS",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer",
+        "headShot": false,
+        "eventId": 3087878758,
+        "victimX": -1885,
+        "victimY": 49,
+        "killerX": -1424,
+        "killerY": 441,
+        "killerId": 19750,
+        "victimId": 16948,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "TRAVIS",
+        "killerNick": "TRAVIS",
+        "killerSide": "TERRORIST",
+        "victimNick": "exit",
+        "victimName": "exit",
+        "victimSide": "CT",
+        "weapon": "p250",
+        "headShot": true,
+        "eventId": 3087878732,
+        "victimX": -1599,
+        "victimY": 395,
+        "killerX": -1896,
+        "killerY": 57,
+        "killerId": 16948,
+        "victimId": 11154,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "saffee",
+        "killerNick": "saffee",
+        "killerSide": "CT",
+        "victimNick": "Forester",
+        "victimName": "Forester",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer",
+        "headShot": false,
+        "eventId": 3087878163,
+        "victimX": -1395,
+        "victimY": 300,
+        "killerX": -1394,
+        "killerY": 557,
+        "killerId": 18835,
+        "victimId": 13982,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Forester",
+        "killerNick": "Forester",
+        "killerSide": "TERRORIST",
+        "victimNick": "insani",
+        "victimName": "insani",
+        "victimSide": "CT",
+        "weapon": "galilar",
+        "headShot": true,
+        "eventId": 3087878117,
+        "victimX": -1488,
+        "victimY": 673,
+        "killerX": -1380,
+        "killerY": 303,
+        "killerId": 13982,
+        "victimId": 21037,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "insani",
+        "killerNick": "insani",
+        "killerSide": "CT",
+        "victimNick": "TRAVIS",
+        "victimName": "TRAVIS",
+        "victimSide": "TERRORIST",
+        "weapon": "usp_silencer",
+        "headShot": true,
+        "eventId": 3087878093,
+        "victimX": -1368,
+        "victimY": 106,
+        "killerX": -1497,
+        "killerY": 673,
+        "killerId": 21037,
+        "victimId": 16948,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "TRAVIS",
+        "killerNick": "TRAVIS",
+        "killerSide": "TERRORIST",
+        "victimNick": "hooch",
+        "victimName": "hooch",
+        "victimSide": "CT",
+        "weapon": "p250",
+        "headShot": true,
+        "eventId": 3087878036,
+        "victimX": -783,
+        "victimY": 902,
+        "killerX": -1394,
+        "killerY": 104,
+        "killerId": 16948,
+        "victimId": -1,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Forester",
+        "killerNick": "Forester",
+        "killerSide": "TERRORIST",
+        "victimNick": "drop",
+        "victimName": "drop",
+        "victimSide": "CT",
+        "weapon": "galilar",
+        "headShot": true,
+        "eventId": 3087877717,
+        "victimX": -1065,
+        "victimY": 732,
+        "killerX": -1217,
+        "killerY": 136,
+        "killerId": 13982,
+        "victimId": 19750,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Assist": {
+        "assisterName": "Boombl4",
+        "assisterNick": "Boombl4",
+        "assisterSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "killEventId": 3087877700
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Forester",
+        "killerNick": "Forester",
+        "killerSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "weapon": "galilar",
+        "headShot": true,
+        "eventId": 3087877700,
+        "victimX": -1101,
+        "victimY": 774,
+        "killerX": -1208,
+        "killerY": 135,
+        "killerId": 13982,
+        "victimId": 18835,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "saffee",
+        "killerNick": "saffee",
+        "killerSide": "CT",
+        "victimNick": "Boombl4",
+        "victimName": "Boombl4",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer",
+        "headShot": false,
+        "eventId": 3087877692,
+        "victimX": -1091,
+        "victimY": 806,
+        "killerX": -1101,
+        "killerY": 774,
+        "killerId": 18835,
+        "victimId": 11840,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Assist": {
+        "assisterName": "NickelBack",
+        "assisterNick": "NickelBack",
+        "assisterSide": "TERRORIST",
+        "victimNick": "insani",
+        "victimName": "insani",
+        "victimSide": "CT",
+        "killEventId": 3087877626
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Boombl4",
+        "killerNick": "Boombl4",
+        "killerSide": "TERRORIST",
+        "victimNick": "insani",
+        "victimName": "insani",
+        "victimSide": "CT",
+        "weapon": "knife_butterfly",
+        "headShot": false,
+        "eventId": 3087877626,
+        "victimX": -1178,
+        "victimY": 842,
+        "killerX": -1155,
+        "killerY": 874,
+        "killerId": 11840,
+        "victimId": 21037,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Forester",
+        "killerNick": "Forester",
+        "killerSide": "TERRORIST",
+        "victimNick": "hooch",
+        "victimName": "hooch",
+        "victimSide": "CT",
+        "weapon": "galilar",
+        "headShot": true,
+        "eventId": 3087877605,
+        "victimX": -834,
+        "victimY": 752,
+        "killerX": -1316,
+        "killerY": 188,
+        "killerId": 13982,
+        "victimId": -1,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Forester",
+        "killerNick": "Forester",
+        "killerSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "weapon": "galilar",
+        "headShot": true,
+        "eventId": 3087877554,
+        "victimX": -915,
+        "victimY": 876,
+        "killerX": -1258,
+        "killerY": 151,
+        "killerId": 13982,
+        "victimId": 18835,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Boombl4",
+        "killerNick": "Boombl4",
+        "killerSide": "TERRORIST",
+        "victimNick": "drop",
+        "victimName": "drop",
+        "victimSide": "CT",
+        "weapon": "p250",
+        "headShot": true,
+        "eventId": 3087877483,
+        "victimX": -777,
+        "victimY": 813,
+        "killerX": -1227,
+        "killerY": 940,
+        "killerId": 11840,
+        "victimId": 19750,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Assist": {
+        "assisterName": "NickelBack",
+        "assisterNick": "NickelBack",
+        "assisterSide": "TERRORIST",
+        "victimNick": "insani",
+        "victimName": "insani",
+        "victimSide": "CT",
+        "killEventId": 3087877444
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Boombl4",
+        "killerNick": "Boombl4",
+        "killerSide": "TERRORIST",
+        "victimNick": "insani",
+        "victimName": "insani",
+        "victimSide": "CT",
+        "weapon": "p250",
+        "headShot": true,
+        "eventId": 3087877444,
+        "victimX": -1125,
+        "victimY": 925,
+        "killerX": -1223,
+        "killerY": 942,
+        "killerId": 11840,
+        "victimId": 21037,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Forester",
+        "killerNick": "Forester",
+        "killerSide": "TERRORIST",
+        "victimNick": "hooch",
+        "victimName": "hooch",
+        "victimSide": "CT",
+        "weapon": "galilar",
+        "headShot": true,
+        "eventId": 3087877426,
+        "victimX": -945,
+        "victimY": 858,
+        "killerX": -1242,
+        "killerY": 145,
+        "killerId": 13982,
+        "victimId": -1,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Forester",
+        "killerNick": "Forester",
+        "killerSide": "TERRORIST",
+        "victimNick": "insani",
+        "victimName": "insani",
+        "victimSide": "CT",
+        "weapon": "galilar",
+        "headShot": false,
+        "eventId": 3087877340,
+        "victimX": -943,
+        "victimY": 45,
+        "killerX": -1359,
+        "killerY": 224,
+        "killerId": 13982,
+        "victimId": 21037,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Boombl4",
+        "killerNick": "Boombl4",
+        "killerSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "weapon": "ak47",
+        "headShot": true,
+        "eventId": 3087877298,
+        "victimX": -1137,
+        "victimY": 717,
+        "killerX": -1369,
+        "killerY": 985,
+        "killerId": 11840,
+        "victimId": 18835,
+        "penetrated": true,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "insani",
+        "killerNick": "insani",
+        "killerSide": "CT",
+        "victimNick": "deko",
+        "victimName": "deko",
+        "victimSide": "TERRORIST",
+        "weapon": "usp_silencer",
+        "headShot": true,
+        "eventId": 3087877270,
+        "victimX": -1297,
+        "victimY": 333,
+        "killerX": -951,
+        "killerY": -2,
+        "killerId": 21037,
+        "victimId": 20113,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Boombl4",
+        "killerNick": "Boombl4",
+        "killerSide": "TERRORIST",
+        "victimNick": "drop",
+        "victimName": "drop",
+        "victimSide": "CT",
+        "weapon": "ak47",
+        "headShot": true,
+        "eventId": 3087877254,
+        "victimX": -1031,
+        "victimY": 862,
+        "killerX": -1368,
+        "killerY": 988,
+        "killerId": 11840,
+        "victimId": 19750,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "saffee",
+        "killerNick": "saffee",
+        "killerSide": "CT",
+        "victimNick": "TRAVIS",
+        "victimName": "TRAVIS",
+        "victimSide": "TERRORIST",
+        "weapon": "usp_silencer",
+        "headShot": true,
+        "eventId": 3087877221,
+        "victimX": -1172,
+        "victimY": 105,
+        "killerX": -1172,
+        "killerY": 770,
+        "killerId": 18835,
+        "victimId": 16948,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "TRAVIS",
+        "killerNick": "TRAVIS",
+        "killerSide": "TERRORIST",
+        "victimNick": "hooch",
+        "victimName": "hooch",
+        "victimSide": "CT",
+        "weapon": "p250",
+        "headShot": true,
+        "eventId": 3087877163,
+        "victimX": -931,
+        "victimY": 701,
+        "killerX": -1177,
+        "killerY": 103,
+        "killerId": 16948,
+        "victimId": -1,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "deko",
+        "killerNick": "deko",
+        "killerSide": "TERRORIST",
+        "victimNick": "drop",
+        "victimName": "drop",
+        "victimSide": "CT",
+        "weapon": "glock",
+        "headShot": true,
+        "eventId": 3087877071,
+        "victimX": -860,
+        "victimY": 940,
+        "killerX": -1396,
+        "killerY": 902,
+        "killerId": 20113,
+        "victimId": 19750,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "deko",
+        "killerNick": "deko",
+        "killerSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "weapon": "glock",
+        "headShot": true,
+        "eventId": 3087877011,
+        "victimX": -985,
+        "victimY": 795,
+        "killerX": -1369,
+        "killerY": 907,
+        "killerId": 20113,
+        "victimId": 18835,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "deko",
+        "killerNick": "deko",
+        "killerSide": "TERRORIST",
+        "victimNick": "hooch",
+        "victimName": "hooch",
+        "victimSide": "CT",
+        "weapon": "glock",
+        "headShot": true,
+        "eventId": 3087876968,
+        "victimX": -783,
+        "victimY": 902,
+        "killerX": -1318,
+        "killerY": 927,
+        "killerId": 20113,
+        "victimId": -1,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "deko",
+        "killerNick": "deko",
+        "killerSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "weapon": "glock",
+        "headShot": true,
+        "eventId": 3087876906,
+        "victimX": -1120,
+        "victimY": 855,
+        "killerX": -1308,
+        "killerY": 933,
+        "killerId": 20113,
+        "victimId": 18835,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "deko",
+        "killerNick": "deko",
+        "killerSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "weapon": "glock",
+        "headShot": true,
+        "eventId": 3087876860,
+        "victimX": -1126,
+        "victimY": 830,
+        "killerX": -1341,
+        "killerY": 932,
+        "killerId": 20113,
+        "victimId": 18835,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "deko",
+        "killerNick": "deko",
+        "killerSide": "TERRORIST",
+        "victimNick": "hooch",
+        "victimName": "hooch",
+        "victimSide": "CT",
+        "weapon": "glock",
+        "headShot": true,
+        "eventId": 3087876823,
+        "victimX": -1166,
+        "victimY": 779,
+        "killerX": -1327,
+        "killerY": 925,
+        "killerId": 20113,
+        "victimId": -1,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "deko",
+        "killerNick": "deko",
+        "killerSide": "TERRORIST",
+        "victimNick": "drop",
+        "victimName": "drop",
+        "victimSide": "CT",
+        "weapon": "glock",
+        "headShot": true,
+        "eventId": 3087876810,
+        "victimX": -834,
+        "victimY": 752,
+        "killerX": -1327,
+        "killerY": 925,
+        "killerId": 20113,
+        "victimId": 19750,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "NickelBack",
+        "killerNick": "NickelBack",
+        "killerSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "weapon": "ak47",
+        "headShot": false,
+        "eventId": 3087876796,
+        "victimX": -1335,
+        "victimY": 92,
+        "killerX": -1781,
+        "killerY": 225,
+        "killerId": 11498,
+        "victimId": 18835,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "saffee",
+        "killerNick": "saffee",
+        "killerSide": "CT",
+        "victimNick": "Forester",
+        "victimName": "Forester",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer_off",
+        "headShot": true,
+        "eventId": 3087876578,
+        "victimX": -1949,
+        "victimY": 102,
+        "killerX": -954,
+        "killerY": 447,
+        "killerId": 18835,
+        "victimId": 13982,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "insani",
+        "killerNick": "insani",
+        "killerSide": "CT",
+        "victimNick": "TRAVIS",
+        "victimName": "TRAVIS",
+        "victimSide": "TERRORIST",
+        "weapon": "usp_silencer",
+        "headShot": true,
+        "eventId": 3087876429,
+        "victimX": -1924,
+        "victimY": 229,
+        "killerX": -1063,
+        "killerY": 292,
+        "killerId": 21037,
+        "victimId": 16948,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "insani",
+        "killerNick": "insani",
+        "killerSide": "CT",
+        "victimNick": "Boombl4",
+        "victimName": "Boombl4",
+        "victimSide": "TERRORIST",
+        "weapon": "usp_silencer",
+        "headShot": true,
+        "eventId": 3087876314,
+        "victimX": -753,
+        "victimY": 731,
+        "killerX": -1113,
+        "killerY": 631,
+        "killerId": 21037,
+        "victimId": 11840,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Boombl4",
+        "killerNick": "Boombl4",
+        "killerSide": "TERRORIST",
+        "victimNick": "hooch",
+        "victimName": "hooch",
+        "victimSide": "CT",
+        "weapon": "m4a1_silencer",
+        "headShot": true,
+        "eventId": 3087876220,
+        "victimX": -783,
+        "victimY": 902,
+        "killerX": -678,
+        "killerY": 338,
+        "killerId": 11840,
+        "victimId": -1,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Boombl4",
+        "killerNick": "Boombl4",
+        "killerSide": "TERRORIST",
+        "victimNick": "drop",
+        "victimName": "drop",
+        "victimSide": "CT",
+        "weapon": "m4a1_silencer",
+        "headShot": true,
+        "eventId": 3087876211,
+        "victimX": -777,
+        "victimY": 813,
+        "killerX": -677,
+        "killerY": 333,
+        "killerId": 11840,
+        "victimId": 19750,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "TRAVIS",
+        "killerNick": "TRAVIS",
+        "killerSide": "TERRORIST",
+        "victimNick": "insani",
+        "victimName": "insani",
+        "victimSide": "CT",
+        "weapon": "p250",
+        "headShot": false,
+        "eventId": 3087876123,
+        "victimX": -1512,
+        "victimY": -371,
+        "killerX": -1949,
+        "killerY": -526,
+        "killerId": 16948,
+        "victimId": 21037,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Suicide": {
+        "playerName": "deko",
+        "playerNick": "deko",
+        "side": "TERRORIST",
+        "weapon": "world"
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "insani",
+        "killerNick": "insani",
+        "killerSide": "CT",
+        "victimNick": "Forester",
+        "victimName": "Forester",
+        "victimSide": "TERRORIST",
+        "weapon": "p250",
+        "headShot": true,
+        "eventId": 3087875957,
+        "victimX": -1957,
+        "victimY": -519,
+        "killerX": -1498,
+        "killerY": -431,
+        "killerId": 21037,
+        "victimId": 13982,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Assist": {
+        "assisterName": "saffee",
+        "assisterNick": "saffee",
+        "assisterSide": "CT",
+        "victimNick": "TRAVIS",
+        "victimName": "TRAVIS",
+        "victimSide": "TERRORIST",
+        "killEventId": 3087875745
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "insani",
+        "killerNick": "insani",
+        "killerSide": "CT",
+        "victimNick": "TRAVIS",
+        "victimName": "TRAVIS",
+        "victimSide": "TERRORIST",
+        "weapon": "p250",
+        "headShot": false,
+        "eventId": 3087875745,
+        "victimX": -1296,
+        "victimY": 316,
+        "killerX": -1037,
+        "killerY": 163,
+        "killerId": 21037,
+        "victimId": 16948,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "insani",
+        "killerNick": "insani",
+        "killerSide": "CT",
+        "victimNick": "Forester",
+        "victimName": "Forester",
+        "victimSide": "TERRORIST",
+        "weapon": "p250",
+        "headShot": true,
+        "eventId": 3087875707,
+        "victimX": -1400,
+        "victimY": 190,
+        "killerX": -1028,
+        "killerY": 356,
+        "killerId": 21037,
+        "victimId": 13982,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Forester",
+        "killerNick": "Forester",
+        "killerSide": "TERRORIST",
+        "victimNick": "drop",
+        "victimName": "drop",
+        "victimSide": "CT",
+        "weapon": "galilar",
+        "headShot": true,
+        "eventId": 3087875697,
+        "victimX": -1535,
+        "victimY": 645,
+        "killerX": -1400,
+        "killerY": 190,
+        "killerId": 13982,
+        "victimId": 19750,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "TRAVIS",
+        "killerNick": "TRAVIS",
+        "killerSide": "TERRORIST",
+        "victimNick": "insani",
+        "victimName": "insani",
+        "victimSide": "CT",
+        "weapon": "p250",
+        "headShot": false,
+        "eventId": 3087875508,
+        "victimX": -1640,
+        "victimY": 88,
+        "killerX": -1794,
+        "killerY": 394,
+        "killerId": 16948,
+        "victimId": 21037,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Suicide": {
+        "playerName": "deko",
+        "playerNick": "deko",
+        "side": "TERRORIST",
+        "weapon": "world"
+      }
+    },
+    {
+      "PlayerJoin": {
+        "playerName": "NickelBack",
+        "playerNick": "NickelBack"
+      }
+    },
+    {
+      "Suicide": {
+        "playerName": "deko",
+        "playerNick": "deko",
+        "side": "TERRORIST",
+        "weapon": "world"
+      }
+    },
+    {
+      "Assist": {
+        "assisterName": "saffee",
+        "assisterNick": "saffee",
+        "assisterSide": "CT",
+        "victimNick": "Forester",
+        "victimName": "Forester",
+        "victimSide": "TERRORIST",
+        "killEventId": 3087874835
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "drop",
+        "killerNick": "drop",
+        "killerSide": "CT",
+        "victimNick": "Forester",
+        "victimName": "Forester",
+        "victimSide": "TERRORIST",
+        "weapon": "ak47",
+        "headShot": false,
+        "eventId": 3087874835,
+        "victimX": -1918,
+        "victimY": 119,
+        "killerX": -1447,
+        "killerY": 504,
+        "killerId": 19750,
+        "victimId": 13982,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Forester",
+        "killerNick": "Forester",
+        "killerSide": "TERRORIST",
+        "victimNick": "insani",
+        "victimName": "insani",
+        "victimSide": "CT",
+        "weapon": "ak47",
+        "headShot": true,
+        "eventId": 3087874690,
+        "victimX": -1415,
+        "victimY": 531,
+        "killerX": -1934,
+        "killerY": 216,
+        "killerId": 13982,
+        "victimId": 21037,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "insani",
+        "killerNick": "insani",
+        "killerSide": "CT",
+        "victimNick": "TRAVIS",
+        "victimName": "TRAVIS",
+        "victimSide": "TERRORIST",
+        "weapon": "p250",
+        "headShot": true,
+        "eventId": 3087874640,
+        "victimX": -1872,
+        "victimY": 61,
+        "killerX": -1412,
+        "killerY": 622,
+        "killerId": 21037,
+        "victimId": 16948,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Suicide": {
+        "playerName": "deko",
+        "playerNick": "deko",
+        "side": "TERRORIST",
+        "weapon": "world"
+      }
+    },
+    {
+      "Suicide": {
+        "playerName": "deko",
+        "playerNick": "deko",
+        "side": "TERRORIST",
+        "weapon": "world"
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "insani",
+        "killerNick": "insani",
+        "killerSide": "CT",
+        "victimNick": "TRAVIS",
+        "victimName": "TRAVIS",
+        "victimSide": "TERRORIST",
+        "weapon": "p250",
+        "headShot": true,
+        "eventId": 3087874028,
+        "victimX": -1824,
+        "victimY": 143,
+        "killerX": -1071,
+        "killerY": 299,
+        "killerId": 21037,
+        "victimId": 16948,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Suicide": {
+        "playerName": "deko",
+        "playerNick": "deko",
+        "side": "TERRORIST",
+        "weapon": "world"
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "TRAVIS",
+        "killerNick": "TRAVIS",
+        "killerSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "weapon": "ssg08",
+        "headShot": true,
+        "eventId": 3087873981,
+        "victimX": -1377,
+        "victimY": 388,
+        "killerX": -1929,
+        "killerY": 94,
+        "killerId": 16948,
+        "victimId": 18835,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "saffee",
+        "killerNick": "saffee",
+        "killerSide": "CT",
+        "victimNick": "Boombl4",
+        "victimName": "Boombl4",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer",
+        "headShot": false,
+        "eventId": 3087873915,
+        "victimX": -1921,
+        "victimY": 114,
+        "killerX": -1371,
+        "killerY": 384,
+        "killerId": 18835,
+        "victimId": 11840,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Boombl4",
+        "killerNick": "Boombl4",
+        "killerSide": "TERRORIST",
+        "victimNick": "insani",
+        "victimName": "insani",
+        "victimSide": "CT",
+        "weapon": "deagle",
+        "headShot": true,
+        "eventId": 3087873907,
+        "victimX": -1511,
+        "victimY": 340,
+        "killerX": -1914,
+        "killerY": 84,
+        "killerId": 11840,
+        "victimId": 21037,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "drop",
+        "killerNick": "drop",
+        "killerSide": "CT",
+        "victimNick": "Forester",
+        "victimName": "Forester",
+        "victimSide": "TERRORIST",
+        "weapon": "deagle",
+        "headShot": true,
+        "eventId": 3087873866,
+        "victimX": -1569,
+        "victimY": -1368,
+        "killerX": -2248,
+        "killerY": -675,
+        "killerId": 19750,
+        "victimId": 13982,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Boombl4",
+        "killerNick": "Boombl4",
+        "killerSide": "TERRORIST",
+        "victimNick": "insani",
+        "victimName": "insani",
+        "victimSide": "CT",
+        "weapon": "deagle",
+        "headShot": true,
+        "eventId": 3087873774,
+        "victimX": -1879,
+        "victimY": 284,
+        "killerX": -1533,
+        "killerY": -341,
+        "killerId": 11840,
+        "victimId": 21037,
+        "penetrated": true,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Suicide": {
+        "playerName": "deko",
+        "playerNick": "deko",
+        "side": "TERRORIST",
+        "weapon": "world"
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "saffee",
+        "killerNick": "saffee",
+        "killerSide": "CT",
+        "victimNick": "TRAVIS",
+        "victimName": "TRAVIS",
+        "victimSide": "TERRORIST",
+        "weapon": "deagle",
+        "headShot": true,
+        "eventId": 3087873619,
+        "victimX": -1558,
+        "victimY": -356,
+        "killerX": -1931,
+        "killerY": 327,
+        "killerId": 18835,
+        "victimId": 16948,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "TRAVIS",
+        "killerNick": "TRAVIS",
+        "killerSide": "TERRORIST",
+        "victimNick": "insani",
+        "victimName": "insani",
+        "victimSide": "CT",
+        "weapon": "ak47",
+        "headShot": true,
+        "eventId": 3087873610,
+        "victimX": -1861,
+        "victimY": 209,
+        "killerX": -1560,
+        "killerY": -357,
+        "killerId": 16948,
+        "victimId": 21037,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Suicide": {
+        "playerName": "deko",
+        "playerNick": "deko",
+        "side": "TERRORIST",
+        "weapon": "world"
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "saffee",
+        "killerNick": "saffee",
+        "killerSide": "CT",
+        "victimNick": "Boombl4",
+        "victimName": "Boombl4",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer",
+        "headShot": false,
+        "eventId": 3087873496,
+        "victimX": -1878,
+        "victimY": -62,
+        "killerX": -1608,
+        "killerY": 353,
+        "killerId": 18835,
+        "victimId": 11840,
+        "penetrated": true,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Suicide": {
+        "playerName": "deko",
+        "playerNick": "deko",
+        "side": "TERRORIST",
+        "weapon": "world"
+      }
+    },
+    {
+      "Suicide": {
+        "playerName": "deko",
+        "playerNick": "deko",
+        "side": "TERRORIST",
+        "weapon": "world"
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "insani",
+        "killerNick": "insani",
+        "killerSide": "CT",
+        "victimNick": "TRAVIS",
+        "victimName": "TRAVIS",
+        "victimSide": "TERRORIST",
+        "weapon": "deagle",
+        "headShot": true,
+        "eventId": 3087873313,
+        "victimX": -1947,
+        "victimY": 90,
+        "killerX": -1049,
+        "killerY": 416,
+        "killerId": 21037,
+        "victimId": 16948,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "TRAVIS",
+        "killerNick": "TRAVIS",
+        "killerSide": "TERRORIST",
+        "victimNick": "insani",
+        "victimName": "insani",
+        "victimSide": "CT",
+        "weapon": "ak47",
+        "headShot": true,
+        "eventId": 3087873228,
+        "victimX": -1791,
+        "victimY": 379,
+        "killerX": -1787,
+        "killerY": -253,
+        "killerId": 16948,
+        "victimId": 21037,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "TRAVIS",
+        "killerNick": "TRAVIS",
+        "killerSide": "TERRORIST",
+        "victimNick": "hooch",
+        "victimName": "hooch",
+        "victimSide": "CT",
+        "weapon": "ak47",
+        "headShot": true,
+        "eventId": 3087873146,
+        "victimX": -1444,
+        "victimY": -225,
+        "killerX": -1565,
+        "killerY": -509,
+        "killerId": 16948,
+        "victimId": -1,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "saffee",
+        "killerNick": "saffee",
+        "killerSide": "CT",
+        "victimNick": "Boombl4",
+        "victimName": "Boombl4",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer",
+        "headShot": false,
+        "eventId": 3087873103,
+        "victimX": -1558,
+        "victimY": 0,
+        "killerX": -1806,
+        "killerY": -270,
+        "killerId": 18835,
+        "victimId": 11840,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Suicide": {
+        "playerName": "deko",
+        "playerNick": "deko",
+        "side": "TERRORIST",
+        "weapon": "world"
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "saffee",
+        "killerNick": "saffee",
+        "killerSide": "CT",
+        "victimNick": "TRAVIS",
+        "victimName": "TRAVIS",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer",
+        "headShot": true,
+        "eventId": 3087872898,
+        "victimX": -1894,
+        "victimY": -92,
+        "killerX": -1651,
+        "killerY": 368,
+        "killerId": 18835,
+        "victimId": 16948,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "TRAVIS",
+        "killerNick": "TRAVIS",
+        "killerSide": "TERRORIST",
+        "victimNick": "hooch",
+        "victimName": "hooch",
+        "victimSide": "CT",
+        "weapon": "ak47",
+        "headShot": true,
+        "eventId": 3087872887,
+        "victimX": -1679,
+        "victimY": 303,
+        "killerX": -1893,
+        "killerY": -93,
+        "killerId": 16948,
+        "victimId": -1,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "insani",
+        "killerNick": "insani",
+        "killerSide": "CT",
+        "victimNick": "Forester",
+        "victimName": "Forester",
+        "victimSide": "TERRORIST",
+        "weapon": "deagle",
+        "headShot": true,
+        "eventId": 3087872868,
+        "victimX": -1926,
+        "victimY": -85,
+        "killerX": -1473,
+        "killerY": 567,
+        "killerId": 21037,
+        "victimId": 13982,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Suicide": {
+        "playerName": "deko",
+        "playerNick": "deko",
+        "side": "TERRORIST",
+        "weapon": "world"
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "TRAVIS",
+        "killerNick": "TRAVIS",
+        "killerSide": "TERRORIST",
+        "victimNick": "hooch",
+        "victimName": "hooch",
+        "victimSide": "CT",
+        "weapon": "ak47",
+        "headShot": true,
+        "eventId": 3087872686,
+        "victimX": -1616,
+        "victimY": -137,
+        "killerX": -1487,
+        "killerY": -489,
+        "killerId": 16948,
+        "victimId": -1,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Suicide": {
+        "playerName": "deko",
+        "playerNick": "deko",
+        "side": "TERRORIST",
+        "weapon": "world"
+      }
+    },
+    {
+      "Suicide": {
+        "playerName": "deko",
+        "playerNick": "deko",
+        "side": "TERRORIST",
+        "weapon": "world"
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "saffee",
+        "killerNick": "saffee",
+        "killerSide": "CT",
+        "victimNick": "Forester",
+        "victimName": "Forester",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer",
+        "headShot": true,
+        "eventId": 3087872376,
+        "victimX": -1931,
+        "victimY": 42,
+        "killerX": -1406,
+        "killerY": 467,
+        "killerId": 18835,
+        "victimId": 13982,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Forester",
+        "killerNick": "Forester",
+        "killerSide": "TERRORIST",
+        "victimNick": "hooch",
+        "victimName": "hooch",
+        "victimSide": "CT",
+        "weapon": "ak47",
+        "headShot": true,
+        "eventId": 3087872320,
+        "victimX": -1609,
+        "victimY": 403,
+        "killerX": -1870,
+        "killerY": -23,
+        "killerId": 13982,
+        "victimId": -1,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "hooch",
+        "killerNick": "hooch",
+        "killerSide": "CT",
+        "victimNick": "TRAVIS",
+        "victimName": "TRAVIS",
+        "victimSide": "TERRORIST",
+        "weapon": "deagle",
+        "headShot": false,
+        "eventId": 3087872255,
+        "victimX": -1897,
+        "victimY": 60,
+        "killerX": -1546,
+        "killerY": 355,
+        "killerId": -1,
+        "victimId": 16948,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Suicide": {
+        "playerName": "deko",
+        "playerNick": "deko",
+        "side": "TERRORIST",
+        "weapon": "world"
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Forester",
+        "killerNick": "Forester",
+        "killerSide": "TERRORIST",
+        "victimNick": "saffee",
+        "victimName": "saffee",
+        "victimSide": "CT",
+        "weapon": "ak47",
+        "headShot": false,
+        "eventId": 3087872175,
+        "victimX": -1868,
+        "victimY": 298,
+        "killerX": -1713,
+        "killerY": -255,
+        "killerId": 13982,
+        "victimId": 18835,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "TRAVIS",
+        "killerNick": "TRAVIS",
+        "killerSide": "TERRORIST",
+        "victimNick": "hooch",
+        "victimName": "hooch",
+        "victimSide": "CT",
+        "weapon": "ak47",
+        "headShot": true,
+        "eventId": 3087872028,
+        "victimX": -1931,
+        "victimY": -296,
+        "killerX": -1476,
+        "killerY": -154,
+        "killerId": 16948,
+        "victimId": -1,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "TRAVIS",
+        "killerNick": "TRAVIS",
+        "killerSide": "TERRORIST",
+        "victimNick": "insani",
+        "victimName": "insani",
+        "victimSide": "CT",
+        "weapon": "ak47",
+        "headShot": true,
+        "eventId": 3087871702,
+        "victimX": -1909,
+        "victimY": -502,
+        "killerX": -2110,
+        "killerY": -1090,
+        "killerId": 16948,
+        "victimId": 21037,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "TRAVIS",
+        "killerNick": "TRAVIS",
+        "killerSide": "TERRORIST",
+        "victimNick": "hooch",
+        "victimName": "hooch",
+        "victimSide": "CT",
+        "weapon": "ak47",
+        "headShot": true,
+        "eventId": 3087871687,
+        "victimX": -1924,
+        "victimY": -619,
+        "killerX": -2157,
+        "killerY": -1063,
+        "killerId": 16948,
+        "victimId": -1,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "insani",
+        "killerNick": "insani",
+        "killerSide": "CT",
+        "victimNick": "Boombl4",
+        "victimName": "Boombl4",
+        "victimSide": "TERRORIST",
+        "weapon": "deagle",
+        "headShot": true,
+        "eventId": 3087871621,
+        "victimX": -2315,
+        "victimY": -755,
+        "killerX": -1710,
+        "killerY": -374,
+        "killerId": 21037,
+        "victimId": 11840,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Boombl4",
+        "killerNick": "Boombl4",
+        "killerSide": "TERRORIST",
+        "victimNick": "drop",
+        "victimName": "drop",
+        "victimSide": "CT",
+        "weapon": "deagle",
+        "headShot": false,
+        "eventId": 3087871609,
+        "victimX": -1572,
+        "victimY": -338,
+        "killerX": -2301,
+        "killerY": -779,
+        "killerId": 11840,
+        "victimId": 19750,
+        "penetrated": true,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "drop",
+        "killerNick": "drop",
+        "killerSide": "CT",
+        "victimNick": "Forester",
+        "victimName": "Forester",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer",
+        "headShot": true,
+        "eventId": 3087871541,
+        "victimX": -2010,
+        "victimY": -577,
+        "killerX": -1492,
+        "killerY": -346,
+        "killerId": 19750,
+        "victimId": 13982,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "drop",
+        "killerNick": "drop",
+        "killerSide": "CT",
+        "victimNick": "TRAVIS",
+        "victimName": "TRAVIS",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer",
+        "headShot": true,
+        "eventId": 3087871518,
+        "victimX": -2316,
+        "victimY": -721,
+        "killerX": -1492,
+        "killerY": -347,
+        "killerId": 19750,
+        "victimId": 16948,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "PlayerJoin": {
+        "playerName": "saffee",
+        "playerNick": "saffee"
+      }
+    },
+    {
+      "Suicide": {
+        "playerName": "deko",
+        "playerNick": "deko",
+        "side": "TERRORIST",
+        "weapon": "world"
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "insani",
+        "killerNick": "insani",
+        "killerSide": "CT",
+        "victimNick": "Boombl4",
+        "victimName": "Boombl4",
+        "victimSide": "TERRORIST",
+        "weapon": "deagle",
+        "headShot": true,
+        "eventId": 3087871342,
+        "victimX": -1544,
+        "victimY": -382,
+        "killerX": -1891,
+        "killerY": 263,
+        "killerId": 21037,
+        "victimId": 11840,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "hooch",
+        "killerNick": "hooch",
+        "killerSide": "CT",
+        "victimNick": "Forester",
+        "victimName": "Forester",
+        "victimSide": "TERRORIST",
+        "weapon": "deagle",
+        "headShot": true,
+        "eventId": 3087871281,
+        "victimX": -1891,
+        "victimY": -226,
+        "killerX": -1686,
+        "killerY": 429,
+        "killerId": -1,
+        "victimId": 13982,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Forester",
+        "killerNick": "Forester",
+        "killerSide": "TERRORIST",
+        "victimNick": "drop",
+        "victimName": "drop",
+        "victimSide": "CT",
+        "weapon": "ak47",
+        "headShot": true,
+        "eventId": 3087871259,
+        "victimX": -1822,
+        "victimY": 385,
+        "killerX": -1770,
+        "killerY": -239,
+        "killerId": 13982,
+        "victimId": 19750,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "drop",
+        "killerNick": "drop",
+        "killerSide": "CT",
+        "victimNick": "TRAVIS",
+        "victimName": "TRAVIS",
+        "victimSide": "TERRORIST",
+        "weapon": "ak47",
+        "headShot": true,
+        "eventId": 3087871252,
+        "victimX": -1796,
+        "victimY": -95,
+        "killerX": -1822,
+        "killerY": 385,
+        "killerId": 19750,
+        "victimId": 16948,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Suicide": {
+        "playerName": "deko",
+        "playerNick": "deko",
+        "side": "TERRORIST",
+        "weapon": "world"
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Forester",
+        "killerNick": "Forester",
+        "killerSide": "TERRORIST",
+        "victimNick": "insani",
+        "victimName": "insani",
+        "victimSide": "CT",
+        "weapon": "ak47",
+        "headShot": true,
+        "eventId": 3087871200,
+        "victimX": -1901,
+        "victimY": 322,
+        "killerX": -1487,
+        "killerY": -506,
+        "killerId": 13982,
+        "victimId": 21037,
+        "penetrated": true,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "insani",
+        "killerNick": "insani",
+        "killerSide": "CT",
+        "victimNick": "Boombl4",
+        "victimName": "Boombl4",
+        "victimSide": "TERRORIST",
+        "weapon": "deagle",
+        "headShot": true,
+        "eventId": 3087871092,
+        "victimX": -1434,
+        "victimY": -376,
+        "killerX": -1969,
+        "killerY": 273,
+        "killerId": 21037,
+        "victimId": 11840,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Boombl4",
+        "killerNick": "Boombl4",
+        "killerSide": "TERRORIST",
+        "victimNick": "hooch",
+        "victimName": "hooch",
+        "victimSide": "CT",
+        "weapon": "ak47",
+        "headShot": true,
+        "eventId": 3087871030,
+        "victimX": -2026,
+        "victimY": 125,
+        "killerX": -1387,
+        "killerY": -345,
+        "killerId": 11840,
+        "victimId": -1,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Suicide": {
+        "playerName": "BIT1",
+        "playerNick": "BIT1",
+        "side": "CT",
+        "weapon": "world"
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "drop",
+        "killerNick": "drop",
+        "killerSide": "CT",
+        "victimNick": "Forester",
+        "victimName": "Forester",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer",
+        "headShot": false,
+        "eventId": 3087870901,
+        "victimX": -1857,
+        "victimY": -56,
+        "killerX": -1645,
+        "killerY": 395,
+        "killerId": 19750,
+        "victimId": 13982,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Forester",
+        "killerNick": "Forester",
+        "killerSide": "TERRORIST",
+        "victimNick": "insani",
+        "victimName": "insani",
+        "victimSide": "CT",
+        "weapon": "ak47",
+        "headShot": false,
+        "eventId": 3087870874,
+        "victimX": -1690,
+        "victimY": 373,
+        "killerX": -1857,
+        "killerY": -56,
+        "killerId": 13982,
+        "victimId": 21037,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Suicide": {
+        "playerName": "EX!T",
+        "playerNick": "EX!T",
+        "side": "TERRORIST",
+        "weapon": "world"
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "hooch",
+        "killerNick": "hooch",
+        "killerSide": "CT",
+        "victimNick": "Boombl4",
+        "victimName": "Boombl4",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer",
+        "headShot": true,
+        "eventId": 3087870792,
+        "victimX": -2012,
+        "victimY": 47,
+        "killerX": -1375,
+        "killerY": 391,
+        "killerId": -1,
+        "victimId": 11840,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Assist": {
+        "assisterName": "hooch",
+        "assisterNick": "hooch",
+        "assisterSide": "CT",
+        "victimNick": "EX!T",
+        "victimName": "EX!T",
+        "victimSide": "TERRORIST",
+        "killEventId": 3087870714
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "insani",
+        "killerNick": "insani",
+        "killerSide": "CT",
+        "victimNick": "EX!T",
+        "victimName": "EX!T",
+        "victimSide": "TERRORIST",
+        "weapon": "famas",
+        "headShot": true,
+        "eventId": 3087870714,
+        "victimX": -1969,
+        "victimY": 138,
+        "killerX": -1010,
+        "killerY": 194,
+        "killerId": 21037,
+        "victimId": -1,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "hooch",
+        "killerNick": "hooch",
+        "killerSide": "CT",
+        "victimNick": "TRAVIS",
+        "victimName": "TRAVIS",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer",
+        "headShot": false,
+        "eventId": 3087870591,
+        "victimX": -1566,
+        "victimY": 211,
+        "killerX": -1117,
+        "killerY": 388,
+        "killerId": -1,
+        "victimId": 16948,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "hooch",
+        "killerNick": "hooch",
+        "killerSide": "CT",
+        "victimNick": "Forester",
+        "victimName": "Forester",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer",
+        "headShot": true,
+        "eventId": 3087870550,
+        "victimX": -1265,
+        "victimY": 111,
+        "killerX": -1115,
+        "killerY": 382,
+        "killerId": -1,
+        "victimId": 13982,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "PlayerJoin": {
+        "playerName": "drop",
+        "playerNick": "drop"
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "hooch",
+        "killerNick": "hooch",
+        "killerSide": "CT",
+        "victimNick": "Boombl4",
+        "victimName": "Boombl4",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer",
+        "headShot": true,
+        "eventId": 3087870450,
+        "victimX": -1725,
+        "victimY": 1098,
+        "killerX": -1648,
+        "killerY": 638,
+        "killerId": -1,
+        "victimId": 11840,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Suicide": {
+        "playerName": "exit",
+        "playerNick": "exit",
+        "side": "CT",
+        "weapon": "world"
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "hooch",
+        "killerNick": "hooch",
+        "killerSide": "CT",
+        "victimNick": "Forester",
+        "victimName": "Forester",
+        "victimSide": "TERRORIST",
+        "weapon": "usp_silencer",
+        "headShot": true,
+        "eventId": 3087870220,
+        "victimX": -1036,
+        "victimY": 42,
+        "killerX": -1120,
+        "killerY": 744,
+        "killerId": -1,
+        "victimId": 13982,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Forester",
+        "killerNick": "Forester",
+        "killerSide": "TERRORIST",
+        "victimNick": "insani",
+        "victimName": "insani",
+        "victimSide": "CT",
+        "weapon": "ak47",
+        "headShot": true,
+        "eventId": 3087870206,
+        "victimX": -1103,
+        "victimY": 742,
+        "killerX": -1036,
+        "killerY": 41,
+        "killerId": 13982,
+        "victimId": 21037,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "PlayerJoin": {
+        "playerName": "insani",
+        "playerNick": "insani"
+      }
+    },
+    {
+      "PlayerJoin": {
+        "playerName": "BIT1",
+        "playerNick": "BIT1"
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Boombl4",
+        "killerNick": "Boombl4",
+        "killerSide": "TERRORIST",
+        "victimNick": "hooch",
+        "victimName": "hooch",
+        "victimSide": "CT",
+        "weapon": "ak47",
+        "headShot": true,
+        "eventId": 3087869876,
+        "victimX": -1189,
+        "victimY": 862,
+        "killerX": -1098,
+        "killerY": 484,
+        "killerId": 11840,
+        "victimId": -1,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Boombl4",
+        "killerNick": "Boombl4",
+        "killerSide": "TERRORIST",
+        "victimNick": "hooch",
+        "victimName": "hooch",
+        "victimSide": "CT",
+        "weapon": "ak47",
+        "headShot": true,
+        "eventId": 3087869836,
+        "victimX": -777,
+        "victimY": 813,
+        "killerX": -1282,
+        "killerY": 935,
+        "killerId": 11840,
+        "victimId": -1,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "PlayerJoin": {
+        "playerName": "exit",
+        "playerNick": "exit"
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Boombl4",
+        "killerNick": "Boombl4",
+        "killerSide": "TERRORIST",
+        "victimNick": "hooch",
+        "victimName": "hooch",
+        "victimSide": "CT",
+        "weapon": "ak47",
+        "headShot": true,
+        "eventId": 3087869777,
+        "victimX": -1339,
+        "victimY": 181,
+        "killerX": -1533,
+        "killerY": 399,
+        "killerId": 11840,
+        "victimId": -1,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Suicide": {
+        "playerName": "Boombl4",
+        "playerNick": "Boombl4",
+        "side": "TERRORIST",
+        "weapon": "world"
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "hooch",
+        "killerNick": "hooch",
+        "killerSide": "CT",
+        "victimNick": "EX!T",
+        "victimName": "EX!T",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer",
+        "headShot": false,
+        "eventId": 3087869153,
+        "victimX": -1746,
+        "victimY": -129,
+        "killerX": -2021,
+        "killerY": 129,
+        "killerId": -1,
+        "victimId": -1,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "hooch",
+        "killerNick": "hooch",
+        "killerSide": "CT",
+        "victimNick": "EX!T",
+        "victimName": "EX!T",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer",
+        "headShot": true,
+        "eventId": 3087868883,
+        "victimX": -1745,
+        "victimY": 208,
+        "killerX": -1665,
+        "killerY": 377,
+        "killerId": -1,
+        "victimId": -1,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "hooch",
+        "killerNick": "hooch",
+        "killerSide": "CT",
+        "victimNick": "TRAVIS",
+        "victimName": "TRAVIS",
+        "victimSide": "TERRORIST",
+        "weapon": "usp_silencer",
+        "headShot": false,
+        "eventId": 3087868733,
+        "victimX": -1180,
+        "victimY": 338,
+        "killerX": -1013,
+        "killerY": 963,
+        "killerId": -1,
+        "victimId": 16948,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "TRAVIS",
+        "killerNick": "TRAVIS",
+        "killerSide": "TERRORIST",
+        "victimNick": "hooch",
+        "victimName": "hooch",
+        "victimSide": "CT",
+        "weapon": "deagle",
+        "headShot": true,
+        "eventId": 3087868699,
+        "victimX": -912,
+        "victimY": 950,
+        "killerX": -1197,
+        "killerY": 332,
+        "killerId": 16948,
+        "victimId": -1,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Boombl4",
+        "killerNick": "Boombl4",
+        "killerSide": "TERRORIST",
+        "victimNick": "hooch",
+        "victimName": "hooch",
+        "victimSide": "CT",
+        "weapon": "ak47",
+        "headShot": true,
+        "eventId": 3087868676,
+        "victimX": -944,
+        "victimY": 837,
+        "killerX": -1073,
+        "killerY": 968,
+        "killerId": 11840,
+        "victimId": -1,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Boombl4",
+        "killerNick": "Boombl4",
+        "killerSide": "TERRORIST",
+        "victimNick": "hooch",
+        "victimName": "hooch",
+        "victimSide": "CT",
+        "weapon": "ak47",
+        "headShot": true,
+        "eventId": 3087868659,
+        "victimX": -1000,
+        "victimY": 839,
+        "killerX": -1193,
+        "killerY": 976,
+        "killerId": 11840,
+        "victimId": -1,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Boombl4",
+        "killerNick": "Boombl4",
+        "killerSide": "TERRORIST",
+        "victimNick": "hooch",
+        "victimName": "hooch",
+        "victimSide": "CT",
+        "weapon": "ak47",
+        "headShot": true,
+        "eventId": 3087868650,
+        "victimX": -950,
+        "victimY": 703,
+        "killerX": -1314,
+        "killerY": 960,
+        "killerId": 11840,
+        "victimId": -1,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Boombl4",
+        "killerNick": "Boombl4",
+        "killerSide": "TERRORIST",
+        "victimNick": "hooch",
+        "victimName": "hooch",
+        "victimSide": "CT",
+        "weapon": "ak47",
+        "headShot": true,
+        "eventId": 3087868625,
+        "victimX": -1085,
+        "victimY": 821,
+        "killerX": -1373,
+        "killerY": 947,
+        "killerId": 11840,
+        "victimId": -1,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "TRAVIS",
+        "killerNick": "TRAVIS",
+        "killerSide": "TERRORIST",
+        "victimNick": "hooch",
+        "victimName": "hooch",
+        "victimSide": "CT",
+        "weapon": "deagle",
+        "headShot": true,
+        "eventId": 3087868611,
+        "victimX": -904,
+        "victimY": 779,
+        "killerX": -1211,
+        "killerY": 320,
+        "killerId": 16948,
+        "victimId": -1,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "TRAVIS",
+        "killerNick": "TRAVIS",
+        "killerSide": "TERRORIST",
+        "victimNick": "hooch",
+        "victimName": "hooch",
+        "victimSide": "CT",
+        "weapon": "deagle",
+        "headShot": true,
+        "eventId": 3087868556,
+        "victimX": -783,
+        "victimY": 902,
+        "killerX": -1213,
+        "killerY": 327,
+        "killerId": 16948,
+        "victimId": -1,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Assist": {
+        "assisterName": "Boombl4",
+        "assisterNick": "Boombl4",
+        "assisterSide": "TERRORIST",
+        "victimNick": "hooch",
+        "victimName": "hooch",
+        "victimSide": "CT",
+        "killEventId": 3087868525
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "TRAVIS",
+        "killerNick": "TRAVIS",
+        "killerSide": "TERRORIST",
+        "victimNick": "hooch",
+        "victimName": "hooch",
+        "victimSide": "CT",
+        "weapon": "deagle",
+        "headShot": false,
+        "eventId": 3087868525,
+        "victimX": -807,
+        "victimY": 923,
+        "killerX": -1216,
+        "killerY": 336,
+        "killerId": 16948,
+        "victimId": -1,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Boombl4",
+        "killerNick": "Boombl4",
+        "killerSide": "TERRORIST",
+        "victimNick": "hooch",
+        "victimName": "hooch",
+        "victimSide": "CT",
+        "weapon": "ak47",
+        "headShot": true,
+        "eventId": 3087868492,
+        "victimX": -1028,
+        "victimY": 928,
+        "killerX": -1141,
+        "killerY": 119,
+        "killerId": 11840,
+        "victimId": -1,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Boombl4",
+        "killerNick": "Boombl4",
+        "killerSide": "TERRORIST",
+        "victimNick": "hooch",
+        "victimName": "hooch",
+        "victimSide": "CT",
+        "weapon": "ak47",
+        "headShot": false,
+        "eventId": 3087868453,
+        "victimX": -1110,
+        "victimY": 765,
+        "killerX": -992,
+        "killerY": 37,
+        "killerId": 11840,
+        "victimId": -1,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "Boombl4",
+        "killerNick": "Boombl4",
+        "killerSide": "TERRORIST",
+        "victimNick": "hooch",
+        "victimName": "hooch",
+        "victimSide": "CT",
+        "weapon": "ak47",
+        "headShot": false,
+        "eventId": 3087868440,
+        "victimX": -1037,
+        "victimY": 132,
+        "killerX": -938,
+        "killerY": 0,
+        "killerId": 11840,
+        "victimId": -1,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Suicide": {
+        "playerName": "TRAVIS",
+        "playerNick": "TRAVIS",
+        "side": "TERRORIST",
+        "weapon": "world"
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "hooch",
+        "killerNick": "hooch",
+        "killerSide": "CT",
+        "victimNick": "EX!T",
+        "victimName": "EX!T",
+        "victimSide": "TERRORIST",
+        "weapon": "m4a1_silencer",
+        "headShot": true,
+        "eventId": 3087868069,
+        "victimX": -1899,
+        "victimY": 839,
+        "killerX": -1614,
+        "killerY": 761,
+        "killerId": -1,
+        "victimId": -1,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "PlayerJoin": {
+        "playerName": "hooch",
+        "playerNick": "hooch"
+      }
+    },
+    {
+      "Suicide": {
+        "playerName": "TRAVIS",
+        "playerNick": "TRAVIS",
+        "side": "TERRORIST",
+        "weapon": "world"
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "deko",
+        "killerNick": "deko",
+        "killerSide": "TERRORIST",
+        "victimNick": "Boombl4",
+        "victimName": "Boombl4",
+        "victimSide": "CT",
+        "weapon": "ak47",
+        "headShot": true,
+        "eventId": 3087866791,
+        "victimX": -1127,
+        "victimY": 926,
+        "killerX": -1383,
+        "killerY": 1088,
+        "killerId": 20113,
+        "victimId": 11840,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "TRAVIS",
+        "killerNick": "TRAVIS",
+        "killerSide": "TERRORIST",
+        "victimNick": "Boombl4",
+        "victimName": "Boombl4",
+        "victimSide": "CT",
+        "weapon": "glock",
+        "headShot": true,
+        "eventId": 3087866708,
+        "victimX": -930,
+        "victimY": 919,
+        "killerX": -1172,
+        "killerY": 320,
+        "killerId": 16948,
+        "victimId": 11840,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "TRAVIS",
+        "killerNick": "TRAVIS",
+        "killerSide": "TERRORIST",
+        "victimNick": "Boombl4",
+        "victimName": "Boombl4",
+        "victimSide": "CT",
+        "weapon": "glock",
+        "headShot": false,
+        "eventId": 3087866613,
+        "victimX": -945,
+        "victimY": 858,
+        "killerX": -1166,
+        "killerY": 320,
+        "killerId": 16948,
+        "victimId": 11840,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "TRAVIS",
+        "killerNick": "TRAVIS",
+        "killerSide": "TERRORIST",
+        "victimNick": "Boombl4",
+        "victimName": "Boombl4",
+        "victimSide": "CT",
+        "weapon": "glock",
+        "headShot": true,
+        "eventId": 3087866496,
+        "victimX": -1031,
+        "victimY": 862,
+        "killerX": -1175,
+        "killerY": 322,
+        "killerId": 16948,
+        "victimId": 11840,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "Kill": {
+        "killerName": "TRAVIS",
+        "killerNick": "TRAVIS",
+        "killerSide": "TERRORIST",
+        "victimNick": "Boombl4",
+        "victimName": "Boombl4",
+        "victimSide": "CT",
+        "weapon": "glock",
+        "headShot": true,
+        "eventId": 3087866367,
+        "victimX": -931,
+        "victimY": 701,
+        "killerX": -1221,
+        "killerY": 182,
+        "killerId": 16948,
+        "victimId": 11840,
+        "penetrated": false,
+        "throughSmoke": false,
+        "noScope": false,
+        "killerBlind": false
+      }
+    },
+    {
+      "PlayerQuit": {
+        "playerName": "hooch",
+        "playerSide": "UNASSIGNED",
+        "playerNick": "hooch"
+      }
+    },
+    {
+      "PlayerJoin": {
+        "playerName": "hooch",
+        "playerNick": "hooch"
+      }
+    },
+    {
+      "PlayerJoin": {
+        "playerName": "Boombl4",
+        "playerNick": "Boombl4"
+      }
+    },
+    {
+      "PlayerJoin": {
+        "playerName": "deko",
+        "playerNick": "deko"
+      }
+    },
+    {
+      "Suicide": {
+        "playerName": "TRAVIS",
+        "playerNick": "TRAVIS",
+        "side": "TERRORIST",
+        "weapon": "world"
+      }
+    },
+    {
+      "Suicide": {
+        "playerName": "TRAVIS",
+        "playerNick": "TRAVIS",
+        "side": "TERRORIST",
+        "weapon": "world"
+      }
+    },
+    {
+      "PlayerJoin": {
+        "playerName": "TRAVIS",
+        "playerNick": "TRAVIS"
+      }
+    },
+    {
+      "Suicide": {
+        "playerName": "Forester",
+        "playerNick": "Forester",
+        "side": "TERRORIST",
+        "weapon": "world"
+      }
+    },
+    {
+      "PlayerJoin": {
+        "playerName": "Forester",
+        "playerNick": "Forester"
+      }
+    },
+    {
+      "RoundStart": {}
+    },
+    {
+      "MatchStarted": {
+        "map": "de_vertigo"
+      }
+    },
+    {
+      "PlayerJoin": {
+        "playerName": "EX!T",
+        "playerNick": "EX!T"
+      }
+    },
+    {
+      "RoundStart": {}
+    },
+    {
+      "MatchStarted": {
+        "map": "de_vertigo"
+      }
+    },
+    {
+      "RoundStart": {}
+    },
+    {
+      "MatchStarted": {
+        "map": "de_mirage"
+      }
+    },
+    {
+      "PlayerQuit": {
+        "playerName": "BIT1",
+        "playerSide": "SPECTATOR",
+        "playerNick": "BIT1"
+      }
+    }
+  ]
+}
